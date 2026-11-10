@@ -1,4 +1,4 @@
-# voo.it
+# degasperin.com
 
 Personal website of Francesco de Gasperin, built with a small Python script and published on GitHub Pages.
 The publication list refreshes itself from NASA ADS every Monday.

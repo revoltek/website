@@ -1,9 +1,9 @@
 # Site settings. Edit this file to change the menu, the domain or the ADS query.
 
 title: Francesco de Gasperin
-site_name: vOO.it
+site_name: degasperin.com
 description: Personal page of Francesco de Gasperin, radio astronomer at IRA-INAF, Bologna.
-url: https://voo.it        # canonical address, no trailing slash
+url: https://degasperin.com        # canonical address, no trailing slash
 lang: en
 
 # Google Tag Manager container used by the old site. Leave empty ("") to load no tracking at all.
