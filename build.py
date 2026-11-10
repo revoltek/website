@@ -277,7 +277,11 @@ def render(page_title, content, active, permalink, description=None, home=False)
     css = hashlib.sha1((ROOT / "static" / "css" / "style.css").read_bytes()).hexdigest()[:8]
     values = {
         "lang": SITE.get("lang", "en"),
-        "head_title": esc(SITE["title"] if home else f"{page_title} | {SITE['title']}"),
+        "head_title": esc(SITE.get("home_title", SITE["title"]) if home else f"{page_title} | {SITE['title']}"),
+        "og_type": "profile" if home else "article",
+        "og_image": SITE["url"] + SITE["profile"]["photo"],
+        "keywords": esc(SITE.get("keywords", "")),
+        "jsonld": person_jsonld() if home else "",
         "page_title": esc(page_title),
         "site_name": esc(SITE["site_name"]),
         "description": esc(description or SITE["description"]),
@@ -294,6 +298,26 @@ def render(page_title, content, active, permalink, description=None, home=False)
         out = re.sub(r'((?:href|src)=")/(?!/)', rf"\1{BASE}/", out)
         out = out.replace("url(/media/", f"url({BASE}/media/")
     return out
+
+
+def person_jsonld():
+    """schema.org Person record: tells search engines who the site is about."""
+    p = SITE["profile"]
+    data = {
+        "@context": "https://schema.org", "@type": "Person",
+        "name": p["name"], "alternateName": ["de Gasperin", "F. de Gasperin", "Francesco de Gasperin"],
+        "url": SITE["url"] + "/", "image": SITE["url"] + p["photo"],
+        "jobTitle": "Astronomer", "description": " ".join(SITE["description"].split()),
+        "affiliation": [
+            {"@type": "Organization", "name": "INAF – Istituto di Radioastronomia", "url": "https://www.ira.inaf.it"},
+            {"@type": "Organization", "name": "University of Hamburg", "url": "https://www.uni-hamburg.de"}],
+        "memberOf": {"@type": "ResearchProject", "name": "ULU – Ultra Low Frequency Universe (ERC Consolidator Grant)",
+                     "url": "https://www.ulu.radio"},
+        "knowsAbout": ["Astronomy", "Radio astronomy", "Astrophysics", "LOFAR", "Galaxy clusters",
+                       "Active galactic nuclei", "Ultra-low frequency radio observations"],
+        "sameAs": [l["url"] for l in p.get("links", [])] + ["https://www.ulu.radio"],
+    }
+    return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False) + "</script>"
 
 
 def write(permalink, html_):

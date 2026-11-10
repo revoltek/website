@@ -2,7 +2,12 @@
 
 title: Francesco de Gasperin
 site_name: degasperin.com
-description: Personal page of Francesco de Gasperin, radio astronomer at IRA-INAF, Bologna.
+description: >-
+  Francesco de Gasperin, astronomer at INAF – Istituto di Radioastronomia, Bologna. Radio astronomy at
+  ultra-low frequencies with LOFAR, galaxy clusters, AGN, and the ERC Consolidator project ULU
+  (Ultra Low Frequency Universe).
+home_title: "Francesco de Gasperin – Radio astronomer, INAF Bologna | ERC project ULU"
+keywords: "Francesco de Gasperin, de Gasperin, astronomy, radio astronomy, astrophysics, ULU, Ultra Low Frequency Universe, ERC, LOFAR, LOFAR LBA, galaxy clusters, INAF, IRA, Bologna"
 url: https://degasperin.com        # canonical address, no trailing slash
 lang: en
 
