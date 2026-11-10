@@ -11,7 +11,7 @@ The publication list refreshes itself from NASA ADS every Monday.
 | Blog posts | `content/blog/YYYY-MM-DD-slug.md` |
 | Left column (photo, roles, logo, links), domain, ADS query | `site.yaml` |
 | Press releases / data links shown under a paper | `data/publication_extras.yaml` (key = DOI or bibcode) |
-| Images and downloads (background: `static/media/radio-sky.webp`) | `static/media/`, `static/files/` |
+| Images and downloads (background: `static/media/background.webp`) | `static/media/`, `static/files/` |
 | Look | `static/css/style.css`, `templates/base.html` |
 
 Every push to `main` rebuilds and publishes the site in about a minute.
