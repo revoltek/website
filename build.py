@@ -112,7 +112,7 @@ def sidebar(active):
     role = "<br>".join(esc(r) for r in p.get("role", []))
     return f"""<aside class="rail">
   <a class="portrait" href="/#about"><img src="{p['photo']}" width="168" height="168" alt="Portrait of {esc(p['name'])}"></a>
-  <p class="name">{esc(p['name'])}</p>
+  <p class="name">{'<br>'.join(esc(x) for x in p.get('name_lines') or [p['name']])}</p>
   <p class="role">{role}</p>
   <a class="logo-chip" href="{esc(p['logo_url'])}"><img src="{p['logo']}" alt="{esc(p['logo_alt'])}"></a>
   <nav aria-label="Sections"><ul class="menu">

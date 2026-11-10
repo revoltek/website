@@ -17,6 +17,7 @@ gtm_id: GTM-PPL92K6
 # Left column
 profile:
   name: Dr. Francesco De Gasperin
+  name_lines: [Dr. Francesco, De Gasperin]   # how the name breaks in the left column
   photo: /media/portrait-square.jpg
   role:
     - Staff Scientist, Istituto di Radioastronomia, INAF
