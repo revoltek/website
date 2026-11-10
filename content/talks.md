@@ -1,9 +1,3 @@
----
-title: Talks
-nav: talks
-permalink: /research/talks/
----
-
 ### 2026
 
 - 26/06/2026 **Talk:** “Exploring the largest structures of the universe at the lowest frequencies”, IFPU colloquium, Trieste, IT

@@ -1,10 +1,4 @@
----
-title: Research
-nav: research
-permalink: /research/
----
-
-## Areas of specialization
+### Areas of specialization
 
 ![The A-team radio sources at ultra-low frequencies](/media/ateam.jpeg){: .aside }
 
@@ -12,11 +6,11 @@ permalink: /research/
 - **Data science:** machine learning, big data, supercomputers
 - **Radio astronomy:** low frequency, surveys, calibration and imaging techniques
 
-## My research group
+### My research group
 
 My group works within [ULU – Ultra Low Frequency Universe](https://www.ulu.radio), my ERC Consolidator Grant project.
 
-## Data from published papers
+### Data from published papers
 
 - **LOFAR LBA Sky Survey** (de Gasperin+ A&A, 648, A104)  
   <https://www.lofar-surveys.org/lba.html>

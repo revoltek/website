@@ -1,10 +1,4 @@
----
-title: Contacts
-nav: contacts
-permalink: /contacts/
----
-
-## Affiliations
+### Affiliations
 
 <div class="affiliations" markdown="1">
 <div markdown="1">
@@ -27,7 +21,7 @@ Germany
 </div>
 </div>
 
-## Office
+### Office
 
 **Room:** 520  
 **Phone:** +39-(0)51-6399380  

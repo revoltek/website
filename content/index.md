@@ -1,10 +1,6 @@
 ---
-title: About me
-nav: about
-permalink: /
+headline: Exploring the Universe at the longest radio wavelengths we can observe from the ground.
 ---
-
-![Francesco de Gasperin](/media/FrancescoDeGasperin_photo4.jpg){: .portrait }
 
 I am a staff scientist at the [Institute of Radioastronomy](http://info.ira.inaf.it/en/) (IRA-INAF) and Visiting Junior Professor at the [Observatory of the Hamburg University](http://www.hs.uni-hamburg.de/institute/index.php?lang=en). My research is mainly based on developing and exploiting new technologies in radio-astronomy to study [active galactic nuclei (AGN)](http://en.wikipedia.org/wiki/Active_galactic_nucleus), [galaxy clusters](http://en.wikipedia.org/wiki/Galaxy_clusters), [galaxies](http://en.wikipedia.org/wiki/Galaxies) and ultimately everything which emits radio waves. I am specialised in the observations at ultra-low frequencies (&lt;100 MHz), the longest wavelengths that we can observe from ground based telescopes.
 

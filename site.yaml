@@ -1,4 +1,4 @@
-# Site settings. Edit this file to change the menu, the domain or the ADS query.
+# Site settings. Edit this file to change the sidebar, the sections or the ADS query.
 
 title: Francesco de Gasperin
 site_name: degasperin.com
@@ -9,15 +9,43 @@ lang: en
 # Google Tag Manager container used by the old site. Leave empty ("") to load no tracking at all.
 gtm_id: GTM-PPL92K6
 
-# Top menu, in order. "key" must match the "nav" field in a page's front matter.
-nav:
-  - {key: about,        title: About,         url: /}
-  - {key: research,     title: Research,      url: /research/}
-  - {key: publications, title: Publications,  url: /research/publications/}
-  - {key: talks,        title: Talks,         url: /research/talks/}
-  - {key: cv,           title: CV,            url: /cv/}
-  - {key: contacts,     title: Contacts,      url: /contacts/}
-  - {key: blog,         title: Blog,          url: /blog/}
+# Left column
+profile:
+  name: Francesco de Gasperin
+  photo: /media/FrancescoDeGasperin_photo4.jpg
+  role:
+    - Staff Scientist, Istituto di Radioastronomia, INAF
+    - Visiting Jr. Professor, University of Hamburg
+    - PI of the ERC Consolidator project ULU
+  logo: /media/inaf.png
+  logo_url: https://www.inaf.it
+  logo_alt: INAF – Istituto Nazionale di Astrofisica
+  links:
+    - {title: NASA ADS, icon: ads, url: "https://ui.adsabs.harvard.edu/search/q=author%3A%22de%20Gasperin%2C%20F%22%20property%3Arefereed&sort=date%20desc%2C%20bibcode%20desc"}
+    - {title: GitHub,   icon: github, url: "https://github.com/revoltek"}
+
+# Sections of the home page, in order; they also form the menu. "file" is in content/.
+sections:
+  - {id: about,        title: About,        file: index.md}
+  - {id: research,     title: Research,     file: research.md}
+  - {id: publications, title: Publications, file: publications.md}
+  - {id: talks,        title: Talks,        file: talks.md}
+  - {id: cv,           title: CV,           file: cv.md}
+  - {id: contact,      title: Contact,      file: contacts.md}
+
+# Separate pages listed after the sections
+pages:
+  - {key: blog, title: Blog, url: /blog/}
+
+# Old addresses that now point into the home page
+redirects:
+  /research/: /#research
+  /research/publications/: /#publications
+  /research/talks/: /#talks
+  /research/group/: /#research
+  /data/: /#research
+  /cv/: /#cv
+  /contacts/: /#contact
 
 # Publication list, refreshed every week from NASA ADS by .github/workflows/deploy.yml
 ads:
@@ -26,5 +54,4 @@ ads:
   collection: all               # "all" or "astronomy"
   exclude_doctypes: [phdthesis] # ADS doctypes to leave out of the list
   search_url: "https://ui.adsabs.harvard.edu/search/q=author%3A%22de%20Gasperin%2C%20F%22%20property%3Arefereed&sort=date%20desc%2C%20bibcode%20desc"
-  scholar_url: "http://scholar.google.com/citations?hl=en&user=5xCoRuUAAAAJ&view_op=list_works"
   max_authors_shown: 10         # longer author lists are cut with "et al."
