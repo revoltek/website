@@ -46,8 +46,9 @@
   --gutter: 5rem;
   color-scheme: light;
 }
+/* Dark colours: follow the system setting unless the visitor picked light or dark with the button. */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --paper: #121821;
     --ink: #dbe2ea;
     --muted: #8f9aa8;
@@ -59,6 +60,18 @@
     --code-bg: #19212c;
     color-scheme: dark;
   }
+}
+:root[data-theme="dark"] {
+  --paper: #121821;
+  --ink: #dbe2ea;
+  --muted: #8f9aa8;
+  --rule: #2b3542;
+  --accent: #93a8ff;
+  --band: #e9b44c;
+  --heading: #a9b8ff;
+  --warm: #e9b44c;
+  --code-bg: #19212c;
+  color-scheme: dark;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -79,7 +92,15 @@ a:hover { text-decoration-thickness: 2px; }
 .skip:focus { left: 1rem; top: 1rem; background: var(--paper); padding: .25rem .5rem; z-index: 1; }
 
 /* Header ------------------------------------------------------------ */
-.masthead { max-width: var(--frame); margin: 0 auto; padding: 3rem 1rem 0; }
+.masthead { position: relative; max-width: var(--frame); margin: 0 auto; padding: 3rem 1rem 0; }
+.theme-toggle { position: absolute; top: 1rem; right: 1rem; display: inline-flex; align-items: center; gap: .4rem;
+  font: inherit; font-size: .9rem; color: var(--muted); background: transparent; cursor: pointer;
+  border: 1px solid var(--rule); border-radius: 999px; padding: .2rem .75rem .2rem .6rem; }
+.theme-toggle:hover { color: var(--ink); border-color: var(--muted); }
+.theme-toggle svg { width: 1rem; height: 1rem; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; }
+.theme-toggle .moon { display: none; }
+.theme-toggle[data-next="dark"] .sun { display: none; }
+.theme-toggle[data-next="dark"] .moon { display: inline; }
 .name { margin: 0; font-weight: 300; font-size: clamp(2rem, 6vw, 3.1rem); line-height: 1.1; letter-spacing: -.012em; }
 .name a { color: var(--ink); text-decoration: none; }
 
@@ -191,7 +212,7 @@ footer a { color: inherit; }
 
 @media (max-width: 40rem) {
   body { font-size: 1.06rem; }
-  .masthead { padding-top: 2rem; }
+  .masthead { padding-top: 3.4rem; }
   .portrait { width: 9rem; margin-left: 1.1rem; }
   .aside { float: none; width: 100%; max-width: 18rem; margin: 0 0 1rem; }
   nav ul { gap: .1rem 1rem; }
