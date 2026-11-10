@@ -110,7 +110,7 @@ def sidebar(active):
         menu.append(f'<li><a href="{page["url"]}"{cur}>{esc(page["title"])}</a></li>')
     links = [f'<li><a href="{esc(l["url"])}">{ICONS.get(l.get("icon"), ICONS["link"])}{esc(l["title"])}</a></li>'
              for l in p.get("links", [])]
-    role = "<br>".join(esc(r) for r in p.get("role", []))
+    role = "<br>".join(md(r, inline=True) for r in p.get("role", []))
     return f"""<aside class="rail">
   <a class="portrait" href="/"><img src="{p['photo']}" width="168" height="168" alt="Portrait of {esc(p['name'])}"></a>
   <p class="name">{'<br>'.join(esc(x) for x in p.get('name_lines') or [p['name']])}</p>

@@ -21,8 +21,8 @@ profile:
   photo: /media/portrait-square.jpg
   role:
     - Staff Scientist, INAF
-    - PI of the ERC CoG project ULU
-  logo: /media/inaf-logo-white.png
+    - PI of the ERC CoG project [ULU](https://www.ulu.radio)
+  logo: /media/inaf-logo-mono.png
   logo_url: https://www.inaf.it
   logo_alt: INAF – Istituto Nazionale di Astrofisica
   links:

@@ -124,6 +124,8 @@ a:hover { text-decoration-thickness: 2px; }
 }
 .rail .name { margin: 1.1rem 0 .35rem; font-size: 1.55rem; line-height: 1.15; font-weight: 600; letter-spacing: -.005em; color: #fff; }
 .rail .role { margin: 0; font-size: .92rem; line-height: 1.45; color: var(--rail-muted); }
+.rail .role a { color: inherit; text-decoration: underline; text-underline-offset: .18em; }
+.rail .role a:hover { color: #fff; }
 .logo-chip { display: block; width: 9.5rem; margin: 1.4rem 0 1.5rem; }
 .logo-chip img { display: block; width: 100%; height: auto; }
 .menu { list-style: none; margin: 0; padding: 0; border-left: 1px solid var(--rail-rule); }
