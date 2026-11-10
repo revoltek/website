@@ -1,0 +1,359 @@
+{
+ "updated": "2026-11-10",
+ "seed": true,
+ "metrics": {
+  "refereed_papers": 223,
+  "first_author_papers": 23,
+  "coauthor_papers": 200,
+  "citations": 15686,
+  "h_index": 63
+ },
+ "first_author": [
+  {
+   "bibcode": "2026A&A...709A.154D",
+   "title": "Single- and double-headed odd radio circles in the LOFAR surveys",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "709",
+   "page": "A154",
+   "doi": "10.1051/0004-6361/202658988",
+   "arxiv": "2602.18294",
+   "citations": 4,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2026aask.bookE.128D",
+   "title": "The Cosmic Ray Life Cycle in Galaxy Clusters",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2026",
+   "pub": "Advancing Astrophysics with the SKA I",
+   "volume": "",
+   "page": "128",
+   "doi": null,
+   "arxiv": "2606.26005",
+   "citations": 0,
+   "doctype": "inbook"
+  },
+  {
+   "bibcode": "2025A&A...693A.189D",
+   "title": "The ViCTORIA project: Description of a multi-frequency radio survey of the Virgo galaxy cluster",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2025",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "693",
+   "page": "A189",
+   "doi": "10.1051/0004-6361/202452060",
+   "arxiv": "2411.18204",
+   "citations": 13,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2023A&A...673A.165D",
+   "title": "The LOFAR LBA Sky Survey. II. First data release",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "673",
+   "page": "A165",
+   "doi": "10.1051/0004-6361/202245389",
+   "arxiv": "2301.12724",
+   "citations": 55,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2022A&A...659A.146D",
+   "title": "MeerKAT view of the diffuse radio sources in Abell 3667 and their interactions with the thermal plasma",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "659",
+   "page": "A146",
+   "doi": "10.1051/0004-6361/202142658",
+   "arxiv": "2111.06940",
+   "citations": 75,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2021A&A...648A.104D",
+   "title": "The LOFAR LBA Sky Survey. I. Survey description and preliminary data release",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "648",
+   "page": "A104",
+   "doi": "10.1051/0004-6361/202140316",
+   "arxiv": "2102.09238",
+   "citations": 108,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2020A&A...644A.157D",
+   "title": "Radio observations of HD 80606 near planetary periastron. II. LOFAR low band antenna observations at 30-78 MHz",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2020",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "644",
+   "page": "A157",
+   "doi": "10.1051/0004-6361/202038746",
+   "arxiv": "2011.05696",
+   "citations": 21,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2020A&A...642A..85D",
+   "title": "Reaching thermal noise at ultra-low radio frequencies. Toothbrush radio relic downstream of the shock front",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2020",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "642",
+   "page": "A85",
+   "doi": "10.1051/0004-6361/202038663",
+   "arxiv": "2007.16043",
+   "citations": 40,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2020A&A...635A.150D",
+   "title": "Cassiopeia A, Cygnus A, Taurus A, and Virgo A at ultra-low radio frequencies",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2020",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "635",
+   "page": "A150",
+   "doi": "10.1051/0004-6361/201936844",
+   "arxiv": "2002.10431",
+   "citations": 47,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2019A&A...622A...5D",
+   "title": "Systematic effects in LOFAR data: A unified calibration strategy",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "622",
+   "page": "A5",
+   "doi": "10.1051/0004-6361/201833867",
+   "arxiv": "1811.07954",
+   "citations": 198,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2018A&A...615A.179D",
+   "title": "The effect of the ionosphere on ultra-low-frequency radio-interferometric observations",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2018",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "615",
+   "page": "A179",
+   "doi": "10.1051/0004-6361/201833012",
+   "arxiv": "1804.07947",
+   "citations": 70,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2018MNRAS.474.5008D",
+   "title": "A radio spectral index map and catalogue at 147-1400 MHz covering 80 per cent of the sky",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "474",
+   "page": "5008",
+   "doi": "10.1093/mnras/stx3125",
+   "arxiv": "1711.11367",
+   "citations": 125,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2017SciA....3E1634D",
+   "title": "Gentle reenergization of electrons in merging galaxy clusters",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2017",
+   "pub": "Science Advances",
+   "volume": "3",
+   "page": "e1701634",
+   "doi": "10.1126/sciadv.1701634",
+   "arxiv": "1710.06796",
+   "citations": 109,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2017MNRAS.467.2234D",
+   "title": "Multifrequency study of a new Hybrid Morphology Radio Source",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2017",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "467",
+   "page": "2234",
+   "doi": "10.1093/mnras/stx210",
+   "arxiv": "1701.06915",
+   "citations": 13,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2017A&A...597A..15D",
+   "title": "Tracing low-mass galaxy clusters using radio relics: the discovery of Abell 3527-bis",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2017",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "597",
+   "page": "A15",
+   "doi": "10.1051/0004-6361/201628945",
+   "arxiv": "1609.08339",
+   "citations": 11,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2015MNRAS.453.3483D",
+   "title": "A powerful double radio relic system discovered in PSZ1 G108.18-11.53: evidence for a shock with non-uniform Mach number?",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2015",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "453",
+   "page": "3483",
+   "doi": "10.1093/mnras/stv1873",
+   "arxiv": "1508.02901",
+   "citations": 49,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2015MNRAS.448.2197D",
+   "title": "Abell 1033: birth of a radio phoenix",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2015",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "448",
+   "page": "2197",
+   "doi": "10.1093/mnras/stv129",
+   "arxiv": "1501.00043",
+   "citations": 42,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2014MNRAS.444.3130D",
+   "title": "A new double radio relic in PSZ1 G096.89+24.17 and a radio relic mass-luminosity relation",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2014",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "444",
+   "page": "3130",
+   "doi": "10.1093/mnras/stu1658",
+   "arxiv": "1408.2677",
+   "citations": 112,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2014A&A...568A.107D",
+   "title": "Discovery of the supernova remnant G351.0-5.4",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2014",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "568",
+   "page": "A107",
+   "doi": "10.1051/0004-6361/201424191",
+   "arxiv": "1408.0036",
+   "citations": 9,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2014MNRAS.440.1542D",
+   "title": "The diffuse radio emission around NGC 5580 and NGC 5588",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2014",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "440",
+   "page": "1542",
+   "doi": "10.1093/mnras/stu360",
+   "arxiv": "1402.5528",
+   "citations": 15,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2012A&A...547A..56D",
+   "title": "M 87 at metre wavelengths: the LOFAR picture",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2012",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "547",
+   "page": "A56",
+   "doi": "10.1051/0004-6361/201220209",
+   "arxiv": "1210.1346",
+   "citations": 120,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2011MNRAS.415.2910D",
+   "title": "Testing black hole jet scaling relations in low-luminosity active galactic nuclei",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2011",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "415",
+   "page": "2910",
+   "doi": "10.1111/j.1365-2966.2011.18904.x",
+   "arxiv": "1104.3575",
+   "citations": 42,
+   "doctype": "article"
+  },
+  {
+   "bibcode": "2011A&A...529A.141D",
+   "title": "Effect of Fourier filters in removing periodic systematic effects from CMB data",
+   "authors": [
+    "de Gasperin, F."
+   ],
+   "year": "2011",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "529",
+   "page": "A141",
+   "doi": "10.1051/0004-6361/201016090",
+   "arxiv": "1103.1874",
+   "citations": 0,
+   "doctype": "article"
+  }
+ ],
+ "coauthor": []
+}

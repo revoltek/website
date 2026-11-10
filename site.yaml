@@ -1,0 +1,32 @@
+# Site settings. Edit this file to change the menu, the domain or the ADS query.
+
+title: Francesco de Gasperin
+site_name: vOO.it
+description: Personal page of Francesco de Gasperin, radio astronomer at IRA-INAF, Bologna.
+url: https://voo.it        # canonical address, no trailing slash
+lang: en
+
+# Google Tag Manager container used by the old site. Leave empty ("") to load no tracking at all.
+gtm_id: GTM-PPL92K6
+
+# Top menu, in order. "key" must match the "nav" field in a page's front matter.
+nav:
+  - {key: about,        title: About,         url: /}
+  - {key: research,     title: Research,      url: /research/}
+  - {key: group,        title: Group,         url: /research/group/}
+  - {key: publications, title: Publications,  url: /research/publications/}
+  - {key: talks,        title: Talks,         url: /research/talks/}
+  - {key: data,         title: Data,          url: /data/}
+  - {key: cv,           title: CV,            url: /cv/}
+  - {key: contacts,     title: Contacts,      url: /contacts/}
+  - {key: blog,         title: Blog,          url: /blog/}
+
+# Publication list, refreshed every week from NASA ADS by .github/workflows/deploy.yml
+ads:
+  author: "de Gasperin, F"      # ADS author name; first-author papers use "^de Gasperin, F"
+  orcid: ""                     # optional, e.g. 0000-0000-0000-0000: restricts to papers with your ORCID claimed
+  collection: all               # "all" or "astronomy"
+  exclude_doctypes: [phdthesis] # ADS doctypes to leave out of the list
+  search_url: "https://ui.adsabs.harvard.edu/search/q=author%3A%22de%20Gasperin%2C%20F%22%20property%3Arefereed&sort=date%20desc%2C%20bibcode%20desc"
+  scholar_url: "http://scholar.google.com/citations?hl=en&user=5xCoRuUAAAAJ&view_op=list_works"
+  max_authors_shown: 10         # longer author lists are cut with "et al."

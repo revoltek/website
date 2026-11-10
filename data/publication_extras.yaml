@@ -1,0 +1,29 @@
+# Hand-written notes attached to papers in the automatic ADS list.
+# Key: the paper's DOI (lower case) or ADS bibcode. Values are Markdown, one line each.
+# The weekly ADS update never touches this file.
+
+10.1051/0004-6361/202140316:
+  - "**Official press releases:** University of Hamburg ([English](https://www.uni-hamburg.de/en/newsroom/exzellenzstrategie/2021/0219-himmelskarte.html)), University of Leiden ([English](https://www.universiteitleiden.nl/en/news/2021/02/astronomers-publish-map-showing-25000-supermassive-black-holes)), ASTRON ([English](https://www.astron.nl/a-starry-sky-made-of-more-than-25000-supermassive-black-holes/)), INAF ([Italian](https://www.media.inaf.it/2021/02/19/mappa-lofar-smbh/)), NOVA ([Dutch](https://www.astronomie.nl/nieuws/astronomen-publiceren-kaart-met-25000-superzware-zwarte-gaten-2683))"
+  - "**Selected newspapers:** Business insider ([English](https://www.businessinsider.com/night-sky-map-shows-25000-supermassive-black-holes-2021-2?r=DE&IR=T)), Popular science ([English](https://www.popsci.com/story/space/black-hole-map/)), IFLScience ([English](https://www.iflscience.com/space/this-incredibly-map-doesnt-show-stars-but-25000-supermassive-black-holes/)), Independent ([English](https://www.independent.co.uk/life-style/gadgets-and-tech/supermassive-black-holes-track-map-b1806263.html)), MSN ([English](https://www.msn.com/en-gb/news/techandscience/astronomers-track-over-25-000-supermassive-black-holes-making-most-detailed-map-of-its-kind/ar-BB1dWvyB)), Telecinco ([Spanish](https://www.telecinco.es/eltiempohoy/el-cielo/25000-agujeros-negros-supermasivos_18_3095670256.html)), Il Messaggero ([Italian](https://www.ilmessaggero.it/scienza/buchi_neri_scoperti_universo_oggi_19_febbraio_2021-5777854.html))"
+  - "**Data:** <https://www.lofar-surveys.org/lba.html>"
+
+10.1051/0004-6361/201936844:
+  - "**Official press releases:** University of Hamburg ([English](https://www1.physik.uni-hamburg.de/en/hs/about-us/news-hs/2020/lofar-radio-monster.html)), ASTRON ([English](https://www.astron.nl/lofar-images-cosmic-radio-monsters/))"
+
+10.1093/mnras/stx3125:
+  - "**Data:** <http://tgssadr.strw.leidenuniv.nl/spidx>"
+
+10.1126/sciadv.1701634:
+  - "**Official press releases:** NOVA/Leiden ([Dutch](https://www.universiteitleiden.nl/nieuws/2017/10/astronomische-vliegtuigstrepen-doven-niet-uit-maar-lichten-op)), ASTRON ([English](http://www.astron.nl/astronomical-airplane-trails-do-not-evade-lighten)), University of Hamburg ([German](https://www.uni-hamburg.de/newsroom/presse/2017/pm73.html)), INAF ([Italian](http://www.media.inaf.it/2017/10/04/particelle-relativistiche-quasi-spente-tornano-a-brillare/))"
+  - "**Selected newspapers:** Discover Magazine ([English](http://blogs.discovermagazine.com/d-brief/2017/10/04/distant-galaxy-behavior/#.WgMwmGePLmE)), Astroblogs ([Dutch](http://www.astroblogs.nl/2017/10/04/astronomische-vliegtuigstrepen-doven-niet-uit-maar-lichten-op/)), Fox News ([English](https://www.foxnews.com/science/nasa-unveils-stunning-pictures-of-galaxy-that-looks-like-star-trek-enterprise))"
+
+10.1093/mnras/stv129:
+  - "**Official press releases:** NASA/Chandra ([English](http://chandra.harvard.edu/photo/2015/a1033/)), Harvard/CfA ([English](https://www.cfa.harvard.edu/news/su201517)), University of Hamburg ([German](https://www.uni-hamburg.de/en/newsroom/presse/2015/pm69.html))"
+  - "**Selected newspapers:** Space.com ([English](https://www.space.com/30820-radio-phoenix-rises-galaxy-collision-video.html))"
+
+10.1051/0004-6361/201220209:
+  - "**Official press releases:** ASTRON ([English](http://astron.nl/about-astron/press-public/news/super-massive-black-hole-inflates-giant-bubble/super-massive-black-ho) – [Dutch](http://astron.nl/node/868)), MPA ([English](http://www.mpa-garching.mpg.de/mpa/institute/news_archives/news1210_bbb/news1210_bbb-en.html) – [German](http://www.mpa-garching.mpg.de/mpa/institute/news_archives/news1210_bbb/news1210_bbb-de.html)), Hamburg Observatory ([English](https://www.hs.uni-hamburg.de/index.php?option=com_content&view=article&id=174:the-last-echo-of-a-super-massive-black-hole-activity&catid=45:neuigkeiten&Itemid=380&lang=en)), MPIfR ([English](http://www3.mpifr-bonn.mpg.de/public/pr/pr-lofar-oct2012-en.html) – [German](http://www3.mpifr-bonn.mpg.de/public/pr/pr-lofar-oct2012-dt.html)), INAF ([Italian](http://www.media.inaf.it/2012/10/29/una-big-babol-al-plasma/)), Cagliari observatory ([Italian](http://www.oa-cagliari.inaf.it/news.php?id_news=86)), Nice Observatory ([French](https://www.oca.eu/spip.php?article734)), Paris Observatory ([French](http://www.grandpublic.obspm.fr/Un-trou-noir-supermassifsouffle) – [English](http://www.grandpublic.obspm.fr/Super-massive-black-hole-inflates))"
+  - "**Selected newspapers:** [El Pais](http://sociedad.elpais.com/sociedad/2012/10/29/actualidad/1351534220_348494.html) (Spanish), [Gazeta](http://www.gazeta.ru/science/news/2012/10/30/n_2594073.shtml) (Russian), [ANSA](http://www.ansa.it/scienza/notizie/rubriche/spazioastro/2012/10/29/soffio-buco-nero_7712591.html) (Italian), [Hinews](http://www.hinews.cn/news/system/2012/10/31/015103568.shtml) (Chinese), [Sci-news](http://www.sci-news.com/astronomy/article00688.html) (English), [Astronews](http://www.astronews.com/news/artikel/2012/10/1210-039.shtml) (German), [Pro-physik](http://www.pro-physik.de/details/news/2860091/Blasenbildung_im_All.html) (German), [Sterne und Weltraum](http://www.sterne-und-weltraum.de/alias/galaxienentwicklung/extrem-massereiches-schwarzes-loch-erzeugt-riesige-blase/1169102) (German)"
+
+10.1051/0004-6361/202245389:
+  - "**Data:** <https://www.lofar-surveys.org/lba.html>"
