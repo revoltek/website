@@ -1,0 +1,41 @@
+# Temporary: collects figures from the arXiv sources of recent papers for review.
+name: Fetch paper figures
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils >/dev/null
+          pip install -q pillow
+          mkdir -p tmp-figures
+          for id in 2602.18294 2606.26005 2411.18204; do
+            mkdir -p /tmp/src/$id && cd /tmp/src/$id
+            curl -fsSL -A "degasperin.com figures" -o src "https://arxiv.org/e-print/$id" || { cd -; continue; }
+            (tar xzf src 2>/dev/null || tar xf src 2>/dev/null || true)
+            n=0
+            find . -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.pdf' \) ! -name src | sort | while read f; do
+              n=$((n+1)); base=$(echo "$f" | sed 's#^\./##; s#[/ ]#_#g')
+              case "$f" in
+                *.pdf|*.PDF) pdftoppm -png -r 110 -singlefile "$f" "$GITHUB_WORKSPACE/tmp-figures/${id}__${base%.*}" ;;
+                *) cp "$f" "$GITHUB_WORKSPACE/tmp-figures/${id}__$base" ;;
+              esac
+            done
+            cd "$GITHUB_WORKSPACE"
+          done
+          python - <<'PY'
+          from PIL import Image; import os, glob
+          for f in glob.glob("tmp-figures/*"):
+              try:
+                  im = Image.open(f); im.thumbnail((1400, 1400)); out = os.path.splitext(f)[0] + ".jpg"
+                  im.convert("RGB").save(out, quality=82)
+                  if out != f: os.remove(f)
+              except Exception as e: print("skip", f, e); os.remove(f)
+          PY
+          ls -la tmp-figures
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp-figures && git commit -m "Temporary: figures for review" && git push
