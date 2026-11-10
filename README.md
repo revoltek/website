@@ -7,7 +7,7 @@ The publication list refreshes itself from NASA ADS every Monday.
 
 | What | Where |
 |---|---|
-| Home-page sections (About, Research, Publications, Talks, CV, Contact) | `content/*.md`, order in `site.yaml` |
+| Pages (About, Research, Publications, Talks, Career, Contact) | `content/*.md`, menu order in `site.yaml` |
 | Blog posts | `content/blog/YYYY-MM-DD-slug.md` |
 | Left column (photo, roles, logo, links), domain, ADS query | `site.yaml` |
 | Press releases / data links shown under a paper | `data/publication_extras.yaml` (key = DOI or bibcode) |

@@ -29,28 +29,27 @@ profile:
     - {title: NASA ADS, icon: ads, url: "https://ui.adsabs.harvard.edu/search/q=author%3A%22de%20Gasperin%2C%20F%22%20property%3Arefereed&sort=date%20desc%2C%20bibcode%20desc"}
     - {title: GitHub,   icon: github, url: "https://github.com/revoltek"}
 
-# Sections of the home page, in order; they also form the menu. "file" is in content/.
+# Pages, in menu order. "file" is in content/.
 sections:
-  - {id: about,        title: About,        file: index.md}
-  - {id: research,     title: Research,     file: research.md}
-  - {id: publications, title: Publications, file: publications.md}
-  - {id: talks,        title: Talks,        file: talks.md}
-  - {id: cv,           title: CV,           file: cv.md}
-  - {id: contact,      title: Contact,      file: contacts.md}
+  - {id: about,        title: About,        file: index.md,        url: /}
+  - {id: research,     title: Research,     file: research.md,     url: /research/}
+  - {id: publications, title: Publications, file: publications.md, url: /publications/}
+  - {id: talks,        title: Talks,        file: talks.md,        url: /talks/}
+  - {id: career,       title: Career,       file: cv.md,           url: /career/}
+  - {id: contact,      title: Contact,      file: contacts.md,     url: /contact/}
 
 # Separate pages listed after the sections
 pages:
   - {key: blog, title: Blog, url: /blog/}
 
-# Old addresses that now point into the home page
+# Old addresses that now point to the new pages
 redirects:
-  /research/: /#research
-  /research/publications/: /#publications
-  /research/talks/: /#talks
-  /research/group/: /#research
-  /data/: /#research
-  /cv/: /#cv
-  /contacts/: /#contact
+  /research/publications/: /publications/
+  /research/talks/: /talks/
+  /research/group/: /research/
+  /data/: /research/
+  /cv/: /career/
+  /contacts/: /contact/
 
 # Publication list, refreshed every week from NASA ADS by .github/workflows/deploy.yml
 ads:

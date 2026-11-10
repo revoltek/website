@@ -103,7 +103,8 @@ def ruler():
 
 def sidebar(active):
     p = SITE["profile"]
-    menu = [f'<li><a href="/#{s["id"]}" data-section="{s["id"]}">{esc(s["title"])}</a></li>' for s in SITE["sections"]]
+    menu = [f'<li><a href="{s["url"]}"{" aria-current=\"page\"" if s["id"] == active else ""}>{esc(s["title"])}</a></li>'
+            for s in SITE["sections"]]
     for page in SITE.get("pages", []):
         cur = ' aria-current="page"' if page["key"] == active else ""
         menu.append(f'<li><a href="{page["url"]}"{cur}>{esc(page["title"])}</a></li>')
@@ -111,7 +112,7 @@ def sidebar(active):
              for l in p.get("links", [])]
     role = "<br>".join(esc(r) for r in p.get("role", []))
     return f"""<aside class="rail">
-  <a class="portrait" href="/#about"><img src="{p['photo']}" width="168" height="168" alt="Portrait of {esc(p['name'])}"></a>
+  <a class="portrait" href="/"><img src="{p['photo']}" width="168" height="168" alt="Portrait of {esc(p['name'])}"></a>
   <p class="name">{'<br>'.join(esc(x) for x in p.get('name_lines') or [p['name']])}</p>
   <p class="role">{role}</p>
   <a class="logo-chip" href="{esc(p['logo_url'])}"><img src="{p['logo']}" alt="{esc(p['logo_alt'])}"></a>
@@ -364,20 +365,16 @@ def talks_html(body):
     return "\n".join(out)
 
 
-def home_page():
-    parts = []
-    for s in SITE["sections"]:
-        meta, body = read_page(ROOT / "content" / s["file"])
-        if s["id"] == "talks":
-            content = talks_html(body)
-        else:
-            content = md(includes(body)).replace("<!-- publications -->", publications_html())
-        if s["id"] == "about":
-            headline = meta.get("headline") or SITE["title"]
-            parts.append(f'<section id="about" class="section hero"><h1>{esc(headline)}</h1>\n{ruler()}\n{content}</section>')
-        else:
-            parts.append(f'<section id="{s["id"]}" class="section"><h2>{esc(s["title"])}</h2>\n{content}</section>')
-    return "\n".join(parts)
+def section_page(s):
+    meta, body = read_page(ROOT / "content" / s["file"])
+    if s["id"] == "talks":
+        content = talks_html(body)
+    else:
+        content = md(includes(body)).replace("<!-- publications -->", publications_html())
+    if s["id"] == "about":
+        headline = meta.get("headline") or SITE["title"]
+        return f'<section id="about" class="section hero"><h1>{esc(headline)}</h1>\n{ruler()}\n{content}</section>'
+    return f'<section id="{s["id"]}" class="section"><h1>{esc(s["title"])}</h1>\n{content}</section>'
 
 
 def build():
@@ -388,8 +385,11 @@ def build():
     posts = load_posts()
     section_files = {s["file"] for s in SITE["sections"]}
 
-    write("/", render(SITE["title"], home_page(), "about", "/", home=True))
-    urls = ["/"]
+    urls = []
+    for sec in SITE["sections"]:
+        home = sec["url"] == "/"
+        write(sec["url"], render(sec["title"], section_page(sec), sec["id"], sec["url"], home=home))
+        urls.append(sec["url"])
 
     for path in sorted((ROOT / "content").glob("*.md")):
         if path.name in section_files:
@@ -397,7 +397,7 @@ def build():
         meta, body = read_page(path)
         permalink = meta["permalink"]
         content = md(includes(body)).replace("<!-- blog-index -->", blog_index(posts))
-        content = f'<section class="section"><h2>{esc(meta["title"])}</h2>\n{content}</section>'
+        content = f'<section class="section"><h1>{esc(meta["title"])}</h1>\n{content}</section>'
         write(permalink, render(meta["title"], content, meta.get("nav"), permalink, meta.get("description")))
         urls.append(permalink)
 
@@ -412,7 +412,7 @@ def build():
             nav.append(f'<a class="next" href="{newer["url"]}">Newer: {esc(newer["meta"]["title"])}</a>')
         nav.append("</nav>")
         content = (f'<article class="section"><p class="crumb"><a href="/blog/">Blog</a></p>'
-                   f"<h2>{esc(p['meta']['title'])}</h2>\n"
+                   f"<h1>{esc(p['meta']['title'])}</h1>\n"
                    f'<p class="postmeta">{long_date(p["date"])}{" in " + esc(cats) if cats else ""}</p>\n'
                    f"{md(includes(p['body']))}\n" + "\n".join(nav) + "</article>")
         write(p["url"], render(p["meta"]["title"], content, "blog", p["url"]))
@@ -425,7 +425,7 @@ def build():
                    f'<p>This page moved to <a href="{target}">{target}</a>.</p>\n')
 
     write("/404.html", render("Page not found",
-                              '<section class="section"><h2>Page not found</h2><p>This address does not exist. '
+                              '<section class="section"><h1>Page not found</h1><p>This address does not exist. '
                               'Try the <a href="/">home page</a> or the <a href="/blog/">blog</a>.</p></section>',
                               None, "/404.html"))
 

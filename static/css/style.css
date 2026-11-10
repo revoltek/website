@@ -1,28 +1,28 @@
-/* degasperin.com — Spectral text, a fixed left column over the radio relics of Abell 3667. */
+/* degasperin.com — Source Sans 3 text, a fixed left column over the radio relics of Abell 3667. */
 
-@font-face { font-family: "Spectral"; font-style: normal; font-weight: 300; font-display: swap;
-  src: url(../fonts/spectral-latin-300-normal.woff2) format("woff2");
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 300; font-display: swap;
+  src: url(../fonts/source-sans-3-latin-300-normal.woff2) format("woff2");
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
-@font-face { font-family: "Spectral"; font-style: normal; font-weight: 300; font-display: swap;
-  src: url(../fonts/spectral-latin-ext-300-normal.woff2) format("woff2");
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 300; font-display: swap;
+  src: url(../fonts/source-sans-3-latin-ext-300-normal.woff2) format("woff2");
   unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
-@font-face { font-family: "Spectral"; font-style: normal; font-weight: 400; font-display: swap;
-  src: url(../fonts/spectral-latin-400-normal.woff2) format("woff2");
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap;
+  src: url(../fonts/source-sans-3-latin-400-normal.woff2) format("woff2");
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
-@font-face { font-family: "Spectral"; font-style: normal; font-weight: 400; font-display: swap;
-  src: url(../fonts/spectral-latin-ext-400-normal.woff2) format("woff2");
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap;
+  src: url(../fonts/source-sans-3-latin-ext-400-normal.woff2) format("woff2");
   unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
-@font-face { font-family: "Spectral"; font-style: italic; font-weight: 400; font-display: swap;
-  src: url(../fonts/spectral-latin-400-italic.woff2) format("woff2");
+@font-face { font-family: "Source Sans 3"; font-style: italic; font-weight: 400; font-display: swap;
+  src: url(../fonts/source-sans-3-latin-400-italic.woff2) format("woff2");
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
-@font-face { font-family: "Spectral"; font-style: italic; font-weight: 400; font-display: swap;
-  src: url(../fonts/spectral-latin-ext-400-italic.woff2) format("woff2");
+@font-face { font-family: "Source Sans 3"; font-style: italic; font-weight: 400; font-display: swap;
+  src: url(../fonts/source-sans-3-latin-ext-400-italic.woff2) format("woff2");
   unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
-@font-face { font-family: "Spectral"; font-style: normal; font-weight: 600; font-display: swap;
-  src: url(../fonts/spectral-latin-600-normal.woff2) format("woff2");
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap;
+  src: url(../fonts/source-sans-3-latin-600-normal.woff2) format("woff2");
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
-@font-face { font-family: "Spectral"; font-style: normal; font-weight: 600; font-display: swap;
-  src: url(../fonts/spectral-latin-ext-600-normal.woff2) format("woff2");
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap;
+  src: url(../fonts/source-sans-3-latin-ext-600-normal.woff2) format("woff2");
   unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
 @font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight: 400; font-display: swap;
   src: url(../fonts/jetbrains-mono-latin-400-normal.woff2) format("woff2");
@@ -39,9 +39,9 @@
   --ink: #1d2530;
   --muted: #5b6573;
   --rule: #d6dbe0;
-  --accent: #2b4fc2;
+  --accent: #b42318;
   --band: #e3a72f;
-  --heading: #2840a8;
+  --heading: #8f1d1d;
   --on-heading: #ffffff;
   --warm: #9a6508;
   --code-bg: #eceee9;
@@ -62,10 +62,10 @@
     --ink: #dbe2ea;
     --muted: #93a0b1;
     --rule: #2a3442;
-    --accent: #93a8ff;
+    --accent: #ff8f80;
     --band: #e9b44c;
-    --heading: #a9b8ff;
-    --on-heading: #0d1320;
+    --heading: #f2a093;
+    --on-heading: #1a0b0b;
     --warm: #e9b44c;
     --code-bg: #19212c;
     color-scheme: dark;
@@ -77,10 +77,10 @@
   --ink: #dbe2ea;
   --muted: #93a0b1;
   --rule: #2a3442;
-  --accent: #93a8ff;
+  --accent: #ff8f80;
   --band: #e9b44c;
-  --heading: #a9b8ff;
-  --on-heading: #0d1320;
+  --heading: #f2a093;
+  --on-heading: #1a0b0b;
   --warm: #e9b44c;
   --code-bg: #19212c;
   color-scheme: dark;
@@ -94,8 +94,8 @@ body {
   margin: 0;
   background: #040203;
   color: var(--ink);
-  font: 400 1.125rem/1.65 "Spectral", Georgia, serif;
-  font-variant-numeric: oldstyle-nums proportional-nums;
+  font: 400 1.08rem/1.6 "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  font-variant-numeric: lining-nums proportional-nums;
   text-rendering: optimizeLegibility;
 }
 /* Radio relics in Abell 3667 behind everything */
@@ -165,6 +165,7 @@ main { padding: 1.5rem 1.5rem 1.5rem .5rem; min-width: 0; max-width: 74rem; }
 .section + .section { margin-top: 2.5rem; }
 
 .hero h1 { margin: 0 0 .6rem; max-width: 34rem; font-weight: 300; font-size: clamp(2.05rem, 4vw, 3.15rem); line-height: 1.12; letter-spacing: -.012em; color: var(--heading); }
+.section > h1 { color: var(--heading); font-weight: 300; font-size: 2.3rem; line-height: 1.2; margin: 0 0 1.4rem; letter-spacing: -.01em; }
 h2 { color: var(--heading); font-weight: 300; font-size: 2.15rem; line-height: 1.2; margin: 0 0 1.4rem; letter-spacing: -.008em; }
 h3 { color: var(--warm); font-weight: 600; font-size: 1.15rem; line-height: 1.3; margin: 2.2rem 0 .7rem; }
 h4 { color: var(--ink); font-weight: 600; font-size: 1.12rem; margin: 1.4rem 0 .4rem; }
@@ -201,6 +202,18 @@ figcaption { font-size: .95rem; color: var(--muted); font-style: italic; margin-
 code, pre { font-family: "JetBrains Mono", ui-monospace, Menlo, monospace; font-size: .82em; font-variant-numeric: normal; }
 :not(pre) > code { background: var(--code-bg); padding: .08em .3em; border-radius: 3px; }
 pre { background: var(--code-bg); padding: .9rem 1rem; overflow-x: auto; line-height: 1.5; border-radius: 4px; }
+
+/* Research: recent papers with figures */
+.section > .paper { max-width: var(--wide); }
+.paper { margin: 1.4rem 0 0; padding: 1.6rem 0 0; border-top: 1px solid var(--rule); }
+.paper h4 { margin: 0 0 .25rem; font-size: 1.2rem; line-height: 1.35; }
+.paper h4 a { color: var(--heading); text-decoration-color: var(--band); }
+.paper .paper-ref { margin: 0 0 .8rem; color: var(--muted); font-size: .92rem; }
+.paper > p { max-width: var(--measure); }
+.figs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 1rem 0 .4rem; }
+.figs figure { margin: 0; }
+.figs img { display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: cover; background: #000; }
+@media (max-width: 40rem) { .figs { grid-template-columns: 1fr; } }
 
 /* Publications ---------------------------------------------------------- */
 .metrics { width: 100%; max-width: 40rem; border-collapse: collapse; margin: 0 0 2.6rem; font-variant-numeric: lining-nums tabular-nums; }
@@ -305,7 +318,7 @@ footer p { margin: 0; }
   main { padding: 0 .5rem .5rem; }
   .section { padding: 2rem 1.1rem 1.6rem; }
   .section + .section { margin-top: 1.5rem; }
-  h2 { font-size: 1.85rem; }
+  h2, .section > h1 { font-size: 1.85rem; }
   .aside { float: none; width: 100%; max-width: 18rem; margin: 0 0 1rem; }
 }
 @media (max-width: 40rem) {

@@ -17,7 +17,7 @@
 <meta name="author" content="Francesco De Gasperin">
 {{ jsonld }}
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="preload" href="/fonts/spectral-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/source-sans-3-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
 <link rel="stylesheet" href="/css/style.css?v={{ css_version }}">
 {{ gtm_head }}
@@ -64,20 +64,6 @@
     });
   });
   if (list) list.dataset.filter = "first";
-
-  // Highlight the menu entry of the section in view
-  if (document.body.classList.contains("home") && "IntersectionObserver" in window) {
-    var links = {};
-    document.querySelectorAll(".menu a[data-section]").forEach(function (a) { links[a.dataset.section] = a; });
-    var obs = new IntersectionObserver(function (entries) {
-      entries.forEach(function (e) {
-        if (!e.isIntersecting) return;
-        Object.keys(links).forEach(function (k) { links[k].removeAttribute("aria-current"); });
-        if (links[e.target.id]) links[e.target.id].setAttribute("aria-current", "true");
-      });
-    }, { rootMargin: "-35% 0px -60% 0px" });
-    document.querySelectorAll("main .section[id]").forEach(function (s) { obs.observe(s); });
-  }
 })();
 </script>
 </body>
