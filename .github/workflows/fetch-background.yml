@@ -1,0 +1,28 @@
+# Temporary: downloads the background image from Wikimedia Commons and commits it.
+name: Fetch background image
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - run: |
+          curl -fsSL -A "degasperin.com site build (fdg)" -o /tmp/bg.png \
+            "https://commons.wikimedia.org/wiki/Special:FilePath/Radio_relics_in_Abell_3667.png"
+          file /tmp/bg.png
+          pip install pillow
+          python - <<'PY'
+          from PIL import Image
+          im = Image.open("/tmp/bg.png").convert("RGB")
+          print("original size", im.size)
+          if im.width > 2560:
+              im = im.resize((2560, round(im.height * 2560 / im.width)), Image.LANCZOS)
+          im.save("static/media/background.webp", "WEBP", quality=82, method=6)
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add static/media/background.webp
+          git commit -m "Background: radio relics in Abell 3667"
+          git push
