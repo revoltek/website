@@ -17,12 +17,11 @@ gtm_id: GTM-PPL92K6
 # Left column
 profile:
   name: Francesco de Gasperin
-  photo: /media/FrancescoDeGasperin_photo4.jpg
+  photo: /media/portrait-square.jpg
   role:
     - Staff Scientist, Istituto di Radioastronomia, INAF
-    - Visiting Jr. Professor, University of Hamburg
     - PI of the ERC Consolidator project ULU
-  logo: /media/inaf.png
+  logo: /media/inaf-logo-white.png
   logo_url: https://www.inaf.it
   logo_alt: INAF – Istituto Nazionale di Astrofisica
   links:

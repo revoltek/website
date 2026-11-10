@@ -120,12 +120,12 @@ a:hover { text-decoration-thickness: 2px; }
 }
 .portrait { display: block; width: 8.75rem; }
 .portrait img {
-  display: block; width: 8.75rem; height: 8.75rem; object-fit: cover; object-position: 50% 20%;
+  display: block; width: 8.75rem; height: 8.75rem; object-fit: cover;
   border-radius: 50%; border: 3px solid var(--band); box-shadow: 0 0 0 6px rgba(227, 167, 47, .16);
 }
 .rail .name { margin: 1.1rem 0 .35rem; font-size: 1.55rem; line-height: 1.15; font-weight: 600; letter-spacing: -.005em; color: #fff; }
 .rail .role { margin: 0; font-size: .92rem; line-height: 1.45; color: var(--rail-muted); }
-.logo-chip { display: block; width: 9.5rem; margin: 1.2rem 0 1.3rem; padding: .45rem .7rem; background: #fff; border-radius: 6px; }
+.logo-chip { display: block; width: 9.5rem; margin: 1.4rem 0 1.5rem; }
 .logo-chip img { display: block; width: 100%; height: auto; }
 .menu { list-style: none; margin: 0; padding: 0; border-left: 1px solid var(--rail-rule); }
 .menu li { margin: 0; }
@@ -281,7 +281,7 @@ footer p { margin: 0; }
   .portrait img { width: 5.5rem; height: 5.5rem; box-shadow: none; }
   .rail .name { margin: .25rem 0 .2rem; font-size: 1.3rem; padding-right: 5.5rem; }
   .rail .role { font-size: .84rem; }
-  .logo-chip { grid-column: 1 / -1; width: 7.5rem; margin: 1rem 0 .6rem; padding: .3rem .5rem; }
+  .logo-chip { grid-column: 1 / -1; width: 7.5rem; margin: 1rem 0 .6rem; }
   .rail nav { grid-column: 1 / -1; }
   .menu { display: flex; flex-wrap: wrap; gap: .1rem 1.1rem; border-left: 0; }
   .menu a { margin: 0; padding: .2rem 0; border-left: 0; border-bottom: 2px solid transparent; }

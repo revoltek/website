@@ -111,7 +111,7 @@ def sidebar(active):
              for l in p.get("links", [])]
     role = "<br>".join(esc(r) for r in p.get("role", []))
     return f"""<aside class="rail">
-  <a class="portrait" href="/#about"><img src="{p['photo']}" width="180" height="240" alt="Portrait of {esc(p['name'])}"></a>
+  <a class="portrait" href="/#about"><img src="{p['photo']}" width="168" height="168" alt="Portrait of {esc(p['name'])}"></a>
   <p class="name">{esc(p['name'])}</p>
   <p class="role">{role}</p>
   <a class="logo-chip" href="{esc(p['logo_url'])}"><img src="{p['logo']}" alt="{esc(p['logo_alt'])}"></a>
