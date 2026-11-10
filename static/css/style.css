@@ -34,22 +34,21 @@
 
 /* Tokens ------------------------------------------------------------- */
 :root {
-  --paper: #f6f7f4;
-  --panel: rgba(247, 248, 245, .985);
-  --ink: #1d2530;
-  --muted: #5b6573;
-  --rule: #d6dbe0;
+  --paper: #fbf8f3;
+  --panel: rgba(251, 248, 243, .985);
+  --ink: #2b201c;
+  --muted: #6f625a;
+  --rule: #e6dccf;
   --accent: #b42318;
   --band: #e3a72f;
   --heading: #8f1d1d;
   --on-heading: #ffffff;
-  --warm: #0078b0;   /* INAF blue, darkened for text on light backgrounds */
-  --code-bg: #eceee9;
-  --shadow: 0 30px 80px rgba(3, 8, 20, .45);
-  /* the left column always sits on the dark sky image */
-  --rail-ink: #eef2f8;
-  --rail-muted: #aab5c7;
-  --rail-rule: rgba(255, 255, 255, .16);
+  --warm: #9a6200;   /* deep gold */
+  --code-bg: #f3ece2;
+  --shadow: 0 30px 80px rgba(20, 6, 3, .45);
+  --rail-ink: #f6efe9;
+  --rail-muted: #c4b4a8;
+  --rail-rule: rgba(255, 230, 210, .16);
   --measure: 40rem;
   --wide: 54rem;
   color-scheme: light;
@@ -57,32 +56,32 @@
 /* Dark colours: follow the system setting unless the visitor picked light or dark with the button. */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --paper: #121821;
-    --panel: rgba(12, 18, 29, .9);
-    --ink: #dbe2ea;
-    --muted: #93a0b1;
-    --rule: #2a3442;
+    --paper: #1a1210;
+    --panel: rgba(24, 15, 13, .9);
+    --ink: #efe4dd;
+    --muted: #b5a398;
+    --rule: #3b2c27;
     --accent: #ff8f80;
     --band: #e9b44c;
     --heading: #f2a093;
     --on-heading: #1a0b0b;
-    --warm: #00afec;   /* INAF blue */
-    --code-bg: #19212c;
+    --warm: #ecb94f;   /* gold */
+    --code-bg: #241815;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --paper: #121821;
-  --panel: rgba(12, 18, 29, .9);
-  --ink: #dbe2ea;
-  --muted: #93a0b1;
-  --rule: #2a3442;
+  --paper: #1a1210;
+  --panel: rgba(24, 15, 13, .9);
+  --ink: #efe4dd;
+  --muted: #b5a398;
+  --rule: #3b2c27;
   --accent: #ff8f80;
   --band: #e9b44c;
   --heading: #f2a093;
   --on-heading: #1a0b0b;
-  --warm: #00afec;   /* INAF blue */
-  --code-bg: #19212c;
+  --warm: #ecb94f;   /* gold */
+  --code-bg: #241815;
   color-scheme: dark;
 }
 
@@ -142,7 +141,7 @@ a:hover { text-decoration-thickness: 2px; }
 .rail-links svg, .theme-toggle svg { width: 1.05rem; height: 1.05rem; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 .theme-toggle {
   margin-top: auto; align-self: flex-start; display: inline-flex; align-items: center; gap: .45rem;
-  font: inherit; font-size: .88rem; color: var(--rail-muted); background: rgba(7, 13, 26, .35); cursor: pointer;
+  font: inherit; font-size: .88rem; color: var(--rail-muted); background: rgba(20, 8, 5, .35); cursor: pointer;
   border: 1px solid var(--rail-rule); border-radius: 999px; padding: .22rem .8rem .22rem .62rem;
 }
 .theme-toggle:hover { color: #fff; border-color: rgba(255, 255, 255, .4); }
