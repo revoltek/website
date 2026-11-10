@@ -4,14 +4,16 @@ nav: research
 permalink: /research/
 ---
 
-## Research interests
+## Areas of specialization
 
 ![The A-team radio sources at ultra-low frequencies](/media/ateam.jpeg){: .aside }
 
-- **Astrophysics:** active galactic nuclei, galaxy evolution, cosmology
-- **Computing:** object oriented programming, data analysis
-- **Radio astronomy:** low frequency, surveys, calibration and imaging techniques, novel technologies
+- **Astrophysics:** clusters of galaxies, active galactic nuclei, intra-cluster medium, cosmology
+- **Data science:** machine learning, big data, supercomputers
+- **Radio astronomy:** low frequency, surveys, calibration and imaging techniques
 
 ### [Publications](/research/publications/)
 
-### [My research group](https://www.physik.uni-hamburg.de/en/hs/group-de-gasperin/research.html)
+### [My research group](https://www.ulu.radio)
+
+My group works within [ULU – Ultra Low Frequency Universe](https://www.ulu.radio), my ERC Consolidator Grant project.

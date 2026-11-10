@@ -38,6 +38,8 @@
   --rule: #d3d8dd;
   --accent: #2b4fc2;
   --band: #e3a72f;
+  --heading: #2840a8;
+  --warm: #9a6508;
   --code-bg: #eceee9;
   --measure: 38rem;
   --frame: 52rem;
@@ -52,6 +54,8 @@
     --rule: #2b3542;
     --accent: #93a8ff;
     --band: #e9b44c;
+    --heading: #a9b8ff;
+    --warm: #e9b44c;
     --code-bg: #19212c;
     color-scheme: dark;
   }
@@ -98,12 +102,15 @@ main { max-width: var(--frame); margin: 0 auto; padding: 2.4rem 1rem 3rem; }
 main > * { max-width: var(--measure); }
 main > .wide, main > .pubs, main > .postlist { max-width: none; }
 
-h1 { font-weight: 300; font-size: 2.05rem; line-height: 1.2; margin: 0 0 1.6rem; letter-spacing: -.008em; }
-h2 { font-weight: 600; font-size: 1.28rem; line-height: 1.3; margin: 2.4rem 0 .8rem; }
-h3 { font-weight: 600; font-size: 1.08rem; margin: 1.8rem 0 .5rem; }
-h3 a { text-decoration: none; }
+h1 { color: var(--heading); font-weight: 300; font-size: 2.05rem; line-height: 1.2; margin: 0 0 1.6rem; letter-spacing: -.008em; }
+h2 { color: var(--heading); font-weight: 600; font-size: 1.28rem; line-height: 1.3; margin: 2.4rem 0 .8rem; }
+h3 { color: var(--warm); font-weight: 600; font-size: 1.08rem; margin: 1.8rem 0 .5rem; }
+h3 a { color: inherit; }
+h3 a { text-decoration-color: var(--band); }
 p, ul, ol { margin: 0 0 1.05rem; }
 li { margin: .25rem 0; }
+main ul > li::marker { color: var(--band); content: "■  "; font-size: .8em; }
+main ol > li::marker { color: var(--heading); font-weight: 600; }
 strong { font-weight: 600; }
 hr { border: 0; border-top: 1px solid var(--rule); margin: 2rem 0; }
 
@@ -128,7 +135,7 @@ main > pre { max-width: var(--frame); }
 
 /* Lists with a year or date in the left gutter ---------------------- */
 .yeargroup { display: grid; grid-template-columns: var(--gutter) minmax(0, var(--measure)); column-gap: 1.25rem; margin: 0 0 1.4rem; }
-.yeargroup > .year { grid-column: 1; margin: 0; font-weight: 300; font-size: 1.45rem; line-height: 1.25; color: var(--muted); font-variant-numeric: lining-nums; }
+.yeargroup > .year { grid-column: 1; margin: 0; font-weight: 300; font-size: 1.45rem; line-height: 1.25; color: var(--warm); font-variant-numeric: lining-nums; }
 .yeargroup > ol, .yeargroup > ul { grid-column: 2; list-style: none; margin: 0; padding: 0; }
 @media (min-width: 46rem) { .yeargroup > .year { position: sticky; top: 1rem; align-self: start; } }
 @media (max-width: 45.99rem) {

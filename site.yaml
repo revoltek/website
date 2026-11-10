@@ -13,7 +13,6 @@ gtm_id: GTM-PPL92K6
 nav:
   - {key: about,        title: About,         url: /}
   - {key: research,     title: Research,      url: /research/}
-  - {key: group,        title: Group,         url: /research/group/}
   - {key: publications, title: Publications,  url: /research/publications/}
   - {key: talks,        title: Talks,         url: /research/talks/}
   - {key: data,         title: Data,          url: /data/}
