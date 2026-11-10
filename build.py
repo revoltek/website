@@ -157,13 +157,17 @@ def is_me(author):
 
 def authors_html(p, seed):
     names = p.get("authors") or []
+    total = max(p.get("n_authors") or 0, len(names))
     limit = SITE["ads"].get("max_authors_shown", 10)
     fmt = lambda a: f"<strong>{esc(a)}</strong>" if is_me(a) else esc(a)
-    shown = "; ".join(fmt(a) for a in names[:limit])
-    if seed and len(names) <= 1:
+    shown_names = names[:limit]
+    shown = "; ".join(fmt(a) for a in shown_names)
+    if seed and total <= 1:
         return shown + " et al."
-    if len(names) > limit:
-        shown += f"; et al. ({len(names)} authors)"
+    if total > len(shown_names):
+        if not any(is_me(a) for a in shown_names):
+            shown += "; …; <strong>de Gasperin, F.</strong>"
+        shown += f"; et al. ({total} authors)"
     return shown
 
 
@@ -305,7 +309,7 @@ def person_jsonld():
     p = SITE["profile"]
     data = {
         "@context": "https://schema.org", "@type": "Person",
-        "name": p["name"], "alternateName": ["de Gasperin", "F. de Gasperin", "Francesco de Gasperin"],
+        "name": p["name"], "alternateName": ["Francesco de Gasperin", "Francesco De Gasperin", "de Gasperin", "F. de Gasperin"],
         "url": SITE["url"] + "/", "image": SITE["url"] + p["photo"],
         "jobTitle": "Astronomer", "description": " ".join(SITE["description"].split()),
         "affiliation": [
@@ -326,11 +330,48 @@ def write(permalink, html_):
     dest.write_text(html_)
 
 
+KIND_CLASS = {"invited talk": "invited", "talk": "talk", "lecture": "lecture", "poster": "poster"}
+
+
+def talks_html(body):
+    """Turn '- DD/MM/YYYY **Kind:** “Title”, venue' lines into a structured, styled list."""
+    out, items = [], []
+    def flush():
+        if items:
+            out.append('<ol class="talks">' + "".join(items) + "</ol>")
+            items.clear()
+    for line in body.splitlines():
+        if line.startswith("### "):
+            flush()
+            out.append(f'<h3>{esc(line[4:].strip())}</h3>')
+            continue
+        m = re.match(r"^- (\d{2})/(\d{2})/(\d{4}) \*\*(.+?):\*\* (.*)$", line.strip())
+        if not m:
+            continue
+        dd, mm, yyyy, kind, rest = m.groups()
+        tm = re.match(r"^(\[)?“(.+?)”(?:\]\((.+?)\))?,?\s*(.*)$", rest)
+        if tm:
+            title, link, venue = tm.group(2), tm.group(3), tm.group(4)
+        else:  # e.g. posters with several links: keep the text as Markdown
+            title, link, venue = None, None, rest
+        cls = KIND_CLASS.get(kind.lower(), "talk")
+        t = (f'<a href="{esc(link)}">{esc(title)}</a>' if link else esc(title)) if title else md(venue, inline=True)
+        v = esc(venue) if title else ""
+        items.append(f'<li class="talk"><span class="date">{int(dd)} {MONTHS[int(mm) - 1][:3]}</span>'
+                     f'<div><span class="kind {cls}">{esc(kind)}</span> <span class="ttitle">{t}</span>'
+                     + (f'<span class="where">{v}</span>' if v else "") + "</div></li>")
+    flush()
+    return "\n".join(out)
+
+
 def home_page():
     parts = []
     for s in SITE["sections"]:
         meta, body = read_page(ROOT / "content" / s["file"])
-        content = md(includes(body)).replace("<!-- publications -->", publications_html())
+        if s["id"] == "talks":
+            content = talks_html(body)
+        else:
+            content = md(includes(body)).replace("<!-- publications -->", publications_html())
         if s["id"] == "about":
             headline = meta.get("headline") or SITE["title"]
             parts.append(f'<section id="about" class="section hero"><h1>{esc(headline)}</h1>\n{ruler()}\n{content}</section>')

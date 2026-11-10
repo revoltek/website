@@ -355,5 +355,3606 @@
    "doctype": "article"
   }
  ],
- "coauthor": []
+ "coauthor": [
+  {
+   "bibcode": "2026A&A...715A.127B",
+   "title": "The Treble Clef radio phoenix and its old nonthermal filaments",
+   "authors": [
+    "Botteon, A.",
+    "Brienza, M.",
+    "Rajpurohit, K."
+   ],
+   "n_authors": 18,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "715",
+   "page": "A127",
+   "doi": "10.1051/0004-6361/202661864",
+   "arxiv": null,
+   "citations": 0,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026A&A...714A.237B",
+   "title": "The plethora of diffuse emission in Abell 2034 revealed by MeerKAT polarization observations",
+   "authors": [
+    "Bonafede, A.",
+    "Balboni, M.",
+    "Pratt, G. W."
+   ],
+   "n_authors": 18,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "714",
+   "page": "A237",
+   "doi": "10.1051/0004-6361/202660014",
+   "arxiv": "2607.14347",
+   "citations": 1,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026A&A...713A..91C",
+   "title": "Two-component large-scale radio emission in Abell 2244",
+   "authors": [
+    "Cianfaglione, M.",
+    "De Gasperin, F.",
+    "Cuciti, V."
+   ],
+   "n_authors": 12,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "713",
+   "page": "A91",
+   "doi": "10.1051/0004-6361/202659157",
+   "arxiv": "2607.15437",
+   "citations": 0,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026A&A...712A..45B",
+   "title": "A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE): XX. Star formation in the tidal tail of NGC 4254",
+   "authors": [
+    "Boselli, A.",
+    "Lupi, A.",
+    "Serra, P."
+   ],
+   "n_authors": 29,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "712",
+   "page": "A45",
+   "doi": "10.1051/0004-6361/202659007",
+   "arxiv": "2606.20006",
+   "citations": 1,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026MNRAS.549g1078R",
+   "title": "Robust clock and ionospheric phase delay separation in radio interferometric calibration",
+   "authors": [
+    "Russeeawon, C.",
+    "Kenyon, J. S.",
+    "Bester, H. L."
+   ],
+   "n_authors": 6,
+   "year": "2026",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "549",
+   "page": "stag1078",
+   "doi": "10.1093/mnras/stag1078",
+   "arxiv": null,
+   "citations": 0,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026A&A...711A.132B",
+   "title": "The ultra low-frequency spectral properties of bright extended radio galaxies in the 3CRR catalogue",
+   "authors": [
+    "Boxelaar, J. M.",
+    "De Gasperin, F.",
+    "Hardcastle, M. J."
+   ],
+   "n_authors": 5,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "711",
+   "page": "A132",
+   "doi": "10.1051/0004-6361/202659503",
+   "arxiv": "2606.13493",
+   "citations": 0,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026A&A...710A.219S",
+   "title": "Galaxy clusters in the LoTSS-DR3: Catalogues and detection pipeline for diffuse radio emission",
+   "authors": [
+    "Stuardi, C.",
+    "Di Gennaro, G.",
+    "Botteon, A."
+   ],
+   "n_authors": 22,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "710",
+   "page": "A219",
+   "doi": "10.1051/0004-6361/202659444",
+   "arxiv": "2605.06400",
+   "citations": 0,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026A&A...709A..64G",
+   "title": "Investigating the radio emission in the Perseus cluster with LOFAR sub-80 MHz LBA observations",
+   "authors": [
+    "Groeneveld, C.",
+    "van Weeren, R. J.",
+    "Gendron-Marsolais, M.-L."
+   ],
+   "n_authors": 10,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "709",
+   "page": "A64",
+   "doi": "10.1051/0004-6361/202658999",
+   "arxiv": "2603.23587",
+   "citations": 3,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026A&A...710A...1S",
+   "title": "XGAP with uGMRT: I. Old active galactic nuclei plasma in merging galaxy groups",
+   "authors": [
+    "Santra, R.",
+    "Kale, R.",
+    "Kolokythas, K."
+   ],
+   "n_authors": 13,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "710",
+   "page": "A1",
+   "doi": "10.1051/0004-6361/202557942",
+   "arxiv": null,
+   "citations": 3,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026A&A...709A.202D",
+   "title": "The LOFAR sub-arcsecond view of the high-redshift radio relic in PSZ2 G091.83+26.11",
+   "authors": [
+    "Di Gennaro, G.",
+    "Timmerman, R.",
+    "Hoeft, M."
+   ],
+   "n_authors": 17,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "709",
+   "page": "A202",
+   "doi": "10.1051/0004-6361/202558168",
+   "arxiv": "2602.23046",
+   "citations": 1,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026A&A...707A.368S",
+   "title": "Combined LOFAR-uGMRT analysis of the diffuse radio emission in the massive clusters Abell 773 and Abell 1351",
+   "authors": [
+    "Srikanth, K. S. L.",
+    "Botteon, A.",
+    "Cassano, R."
+   ],
+   "n_authors": 23,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "707",
+   "page": "A368",
+   "doi": "10.1051/0004-6361/202557927",
+   "arxiv": "2601.13316",
+   "citations": 2,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026A&A...707A.198S",
+   "title": "The LOFAR Two-metre Sky Survey: VII. Third Data Release",
+   "authors": [
+    "Shimwell, T. W.",
+    "Hardcastle, M. J.",
+    "Tasse, C."
+   ],
+   "n_authors": 102,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "707",
+   "page": "A198",
+   "doi": "10.1051/0004-6361/202557749",
+   "arxiv": "2602.15949",
+   "citations": 75,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026MNRAS.546ag054V",
+   "title": "MeerKAT observations of Abell 1775 and Abell 1795: the discovery of a hadronic radio halo?",
+   "authors": [
+    "van Weeren, R. J.",
+    "Osinga, E.",
+    "Brunetti, G."
+   ],
+   "n_authors": 16,
+   "year": "2026",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "546",
+   "page": "stag054",
+   "doi": "10.1093/mnras/stag054",
+   "arxiv": "2601.16288",
+   "citations": 9,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026A&A...706A.240E",
+   "title": "The longest known tails of ram-pressure-stripped star-forming galaxies are caused by an intracluster medium shock in Abell 1367",
+   "authors": [
+    "Edler, H. W.",
+    "Hoeft, M.",
+    "Bhagat, S."
+   ],
+   "n_authors": 13,
+   "year": "2026",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "706",
+   "page": "A240",
+   "doi": "10.1051/0004-6361/202558007",
+   "arxiv": "2512.15660",
+   "citations": 2,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026aask.bookE.131P",
+   "title": "Probing Merger Shocks in Galaxy Clusters in the SKA Era",
+   "authors": [
+    "Pal, Arpan",
+    "Kale, Ruta",
+    "Di Gennaro, Gabriella"
+   ],
+   "n_authors": 11,
+   "year": "2026",
+   "pub": "Advancing Astrophysics with the SKA I",
+   "volume": "",
+   "page": "131",
+   "doi": null,
+   "arxiv": "2606.24738",
+   "citations": 0,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2026aask.bookE.182S",
+   "title": "SKA─VLBI View of AGN Jets in the Early Universe",
+   "authors": [
+    "Spingola, Cristiana",
+    "Mezcua, Mar",
+    "Liu, Yuanqi"
+   ],
+   "n_authors": 36,
+   "year": "2026",
+   "pub": "Advancing Astrophysics with the SKA I",
+   "volume": "",
+   "page": "182",
+   "doi": null,
+   "arxiv": "2606.28304",
+   "citations": 0,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025A&A...704A..65B",
+   "title": "LOFAR 58 MHz Legacy Survey of the 3CRR catalog",
+   "authors": [
+    "Boxelaar, J. M.",
+    "De Gasperin, F.",
+    "Hardcastle, M. J."
+   ],
+   "n_authors": 7,
+   "year": "2025",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "704",
+   "page": "A65",
+   "doi": "10.1051/0004-6361/202556438",
+   "arxiv": "2509.15115",
+   "citations": 3,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025A&A...704A.245B",
+   "title": "Resurging from the ashes: A spectral study of seven candidate revived radio fossils in nearby low-mass galaxy clusters",
+   "authors": [
+    "Bruno, L.",
+    "Botteon, A.",
+    "Dallacasa, D."
+   ],
+   "n_authors": 20,
+   "year": "2025",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "704",
+   "page": "A245",
+   "doi": "10.1051/0004-6361/202557181",
+   "arxiv": "2510.05673",
+   "citations": 4,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025MNRAS.543.1638K",
+   "title": "The MeerKAT Galaxy Cluster Legacy Survey ─ II. Catalogue of the diffuse radio emission in MeerKAT-GCLS clusters",
+   "authors": [
+    "Kolokythas, Konstantinos",
+    "Venturi, Tiziana",
+    "Knowles, Kenda"
+   ],
+   "n_authors": 10,
+   "year": "2025",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "543",
+   "page": "1638",
+   "doi": "10.1093/mnras/staf1499",
+   "arxiv": "2509.05442",
+   "citations": 12,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025A&A...700A.221G",
+   "title": "Faraday synthesis in direction-dependent imaging",
+   "authors": [
+    "Gustafsson, V.",
+    "Brüggen, M.",
+    "Tasse, C."
+   ],
+   "n_authors": 6,
+   "year": "2025",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "700",
+   "page": "A221",
+   "doi": "10.1051/0004-6361/202554903",
+   "arxiv": "2504.00141",
+   "citations": 6,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025A&A...699A.200L",
+   "title": "A view of the CIZA J2242.8+5301 galaxy cluster at very low radio frequencies",
+   "authors": [
+    "Lusetti, G.",
+    "Brüggen, M.",
+    "Edler, H. W."
+   ],
+   "n_authors": 12,
+   "year": "2025",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "699",
+   "page": "A200",
+   "doi": "10.1051/0004-6361/202554521",
+   "arxiv": "2505.23402",
+   "citations": 4,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025A&A...695A.215D",
+   "title": "Limits and challenges of the detection of cluster-scale diffuse radio emission at high redshift: The Massive and Distant Clusters of WISE Survey (MaDCoWS) in LoTSS-DR2",
+   "authors": [
+    "Di Gennaro, G.",
+    "Brüggen, M.",
+    "Moravec, E."
+   ],
+   "n_authors": 17,
+   "year": "2025",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "695",
+   "page": "A215",
+   "doi": "10.1051/0004-6361/202453203",
+   "arxiv": "2502.19273",
+   "citations": 11,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025A&A...695A...7Z",
+   "title": "The evolution of extragalactic peaked-spectrum sources down to 54 megahertz",
+   "authors": [
+    "Zhai, Sai",
+    "Gloudemans, Anniek J.",
+    "Gürkan, Gülay"
+   ],
+   "n_authors": 7,
+   "year": "2025",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "695",
+   "page": "A7",
+   "doi": "10.1051/0004-6361/202452979",
+   "arxiv": "2501.17700",
+   "citations": 0,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025A&A...695A..80S",
+   "title": "The LOFAR Two-metre Sky Survey: Deep Fields Data Release 2: I. The ELAIS-N1 field",
+   "authors": [
+    "Shimwell, T. W.",
+    "Hale, C. L.",
+    "Best, P. N."
+   ],
+   "n_authors": 32,
+   "year": "2025",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "695",
+   "page": "A80",
+   "doi": "10.1051/0004-6361/202452930",
+   "arxiv": "2501.04093",
+   "citations": 28,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025A&A...695A..41G",
+   "title": "The low-frequency flattening of the radio spectrum of giant H II regions in M 101",
+   "authors": [
+    "Gajović, L.",
+    "Heesen, V.",
+    "Brüggen, M."
+   ],
+   "n_authors": 13,
+   "year": "2025",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "695",
+   "page": "A41",
+   "doi": "10.1051/0004-6361/202453003",
+   "arxiv": "2502.08713",
+   "citations": 6,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025JSWSC..15....6B",
+   "title": "Statistics of travelling ionospheric disturbances observed using the LOFAR radio telescope",
+   "authors": [
+    "Boyde, Ben",
+    "Wood, Alan G.",
+    "Dorrian, Gareth"
+   ],
+   "n_authors": 5,
+   "year": "2025",
+   "pub": "Journal of Space Weather and Space Climate",
+   "volume": "15",
+   "page": "6",
+   "doi": "10.1051/swsc/2025002",
+   "arxiv": null,
+   "citations": 4,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025A&A...693A..94P",
+   "title": "Non-thermal emission in galaxy groups at extremely low frequency: The case of A1213",
+   "authors": [
+    "Pasini, T.",
+    "Mahatma, V. H.",
+    "Brienza, M."
+   ],
+   "n_authors": 10,
+   "year": "2025",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "693",
+   "page": "A94",
+   "doi": "10.1051/0004-6361/202452006",
+   "arxiv": "2411.16853",
+   "citations": 4,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2025A&A...693A..99G",
+   "title": "Serendipitous decametre detection of ultra steep spectrum radio emission in Abell 655",
+   "authors": [
+    "Groeneveld, C.",
+    "van Weeren, R. J.",
+    "Botteon, A."
+   ],
+   "n_authors": 8,
+   "year": "2025",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "693",
+   "page": "A99",
+   "doi": "10.1051/0004-6361/202452687",
+   "arxiv": "2412.05360",
+   "citations": 6,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...691A.347Y",
+   "title": "1-arcsecond imaging of the ELAIS-N1 field at 144MHz using the LoTSS survey with the international LOFAR telescope",
+   "authors": [
+    "Ye, Haoyang",
+    "Sweijen, Frits",
+    "van Weeren, Reinout J."
+   ],
+   "n_authors": 13,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "691",
+   "page": "A347",
+   "doi": "10.1051/0004-6361/202348103",
+   "arxiv": "2309.16560",
+   "citations": 13,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...691A..23D",
+   "title": "Magnetic fields in the outskirts of PSZ2 G096.88+24.18 from a depolarization analysis of radio relics",
+   "authors": [
+    "De Rubeis, E.",
+    "Stuardi, C.",
+    "Bonafede, A."
+   ],
+   "n_authors": 7,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "691",
+   "page": "A23",
+   "doi": "10.1051/0004-6361/202450892",
+   "arxiv": "2408.08603",
+   "citations": 13,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...690A.195S",
+   "title": "ViCTORIA project: The LOFAR-MeerKAT view of active galactic nuclei in Virgo cluster early-type galaxies",
+   "authors": [
+    "Spasic, A.",
+    "Edler, H. W.",
+    "Su, Y."
+   ],
+   "n_authors": 11,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "690",
+   "page": "A195",
+   "doi": "10.1051/0004-6361/202450365",
+   "arxiv": "2406.00781",
+   "citations": 8,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...689A.113M",
+   "title": "The SRG/eROSITA All-Sky Survey: View of the Virgo Cluster",
+   "authors": [
+    "McCall, Hannah",
+    "Reiprich, Thomas H.",
+    "Veronica, Angie"
+   ],
+   "n_authors": 14,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "689",
+   "page": "A113",
+   "doi": "10.1051/0004-6361/202449391",
+   "arxiv": "2401.17296",
+   "citations": 21,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...689A.218P",
+   "title": "Ultra-low-frequency LOFAR spectral indices of cluster radio halos",
+   "authors": [
+    "Pasini, T.",
+    "De Gasperin, F.",
+    "Brüggen, M."
+   ],
+   "n_authors": 15,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "689",
+   "page": "A218",
+   "doi": "10.1051/0004-6361/202450697",
+   "arxiv": "2406.12005",
+   "citations": 16,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024Natur.633..537O",
+   "title": "Black hole jets on the scale of the cosmic web",
+   "authors": [
+    "Oei, Martijn S. S. L.",
+    "Hardcastle, Martin J.",
+    "Timmerman, Roland"
+   ],
+   "n_authors": 13,
+   "year": "2024",
+   "pub": "Nature",
+   "volume": "633",
+   "page": "537",
+   "doi": "10.1038/s41586-024-07879-y",
+   "arxiv": "2411.08630",
+   "citations": 69,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...689A..68G",
+   "title": "A spatially resolved radio spectral study of the galaxy M 51",
+   "authors": [
+    "Gajović, L.",
+    "Adebahr, B.",
+    "Basu, A."
+   ],
+   "n_authors": 17,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "689",
+   "page": "A68",
+   "doi": "10.1051/0004-6361/202348588",
+   "arxiv": "2406.06689",
+   "citations": 9,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...689A..22R",
+   "title": "A 100 kpc ram pressure tail trailing the group galaxy NGC 2276",
+   "authors": [
+    "Roberts, I. D.",
+    "van Weeren, R. J.",
+    "de Gasperin, F."
+   ],
+   "n_authors": 8,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "689",
+   "page": "A22",
+   "doi": "10.1051/0004-6361/202450672",
+   "arxiv": "2406.09221",
+   "citations": 8,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...688A.175O",
+   "title": "Probing particle acceleration in Abell 2256: From 16 MHz to gamma rays",
+   "authors": [
+    "Osinga, E.",
+    "van Weeren, R. J.",
+    "Brunetti, G."
+   ],
+   "n_authors": 12,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "688",
+   "page": "A175",
+   "doi": "10.1051/0004-6361/202348002",
+   "arxiv": "2405.09384",
+   "citations": 14,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024NatAs...8..786G",
+   "title": "Characterization of the decametre sky at subarcminute resolution",
+   "authors": [
+    "Groeneveld, C.",
+    "van Weeren, R. J.",
+    "Osinga, E."
+   ],
+   "n_authors": 15,
+   "year": "2024",
+   "pub": "Nature Astronomy",
+   "volume": "8",
+   "page": "786",
+   "doi": "10.1038/s41550-024-02266-z",
+   "arxiv": "2405.05311",
+   "citations": 18,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...686A..82B",
+   "title": "First evidence of a connection between cluster-scale diffuse radio emission in cool-core galaxy clusters and sloshing features",
+   "authors": [
+    "Biava, N.",
+    "Bonafede, A.",
+    "Gastaldello, F."
+   ],
+   "n_authors": 18,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "686",
+   "page": "A82",
+   "doi": "10.1051/0004-6361/202348045",
+   "arxiv": "2403.09802",
+   "citations": 35,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...686A..43I",
+   "title": "The LOFAR - eFEDS survey: The incidence of radio and X-ray AGN and the disk-jet connection",
+   "authors": [
+    "Igo, Z.",
+    "Merloni, A.",
+    "Hoang, D."
+   ],
+   "n_authors": 18,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "686",
+   "page": "A43",
+   "doi": "10.1051/0004-6361/202349069",
+   "arxiv": "2402.16943",
+   "citations": 23,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...685L..10P",
+   "title": "Abell 0399-Abell 0401 radio bridge spectral index: First multi-frequency detection",
+   "authors": [
+    "Pignataro, G. V.",
+    "Bonafede, A.",
+    "Bernardi, G."
+   ],
+   "n_authors": 15,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "685",
+   "page": "L10",
+   "doi": "10.1051/0004-6361/202450051",
+   "arxiv": "2405.00772",
+   "citations": 8,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024ApJ...966...38R",
+   "title": "Abell 746: A Highly Disturbed Cluster Undergoing Multiple Mergers",
+   "authors": [
+    "Rajpurohit, K.",
+    "Lovisari, L.",
+    "Botteon, A."
+   ],
+   "n_authors": 24,
+   "year": "2024",
+   "pub": "The Astrophysical Journal",
+   "volume": "966",
+   "page": "38",
+   "doi": "10.3847/1538-4357/ad29fa",
+   "arxiv": "2309.01716",
+   "citations": 19,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024RaSc...5907871B",
+   "title": "Wavelet Analysis of Differential TEC Measurements Obtained Using LOFAR",
+   "authors": [
+    "Boyde, Ben",
+    "Wood, Alan",
+    "Dorrian, Gareth"
+   ],
+   "n_authors": 8,
+   "year": "2024",
+   "pub": "Radio Science",
+   "volume": "59",
+   "page": "e2023RS007871",
+   "doi": "10.1029/2023RS007871",
+   "arxiv": null,
+   "citations": 6,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024MNRAS.528.6470M",
+   "title": "Sardinia Radio Telescope observations of the Coma cluster",
+   "authors": [
+    "Murgia, M.",
+    "Govoni, F.",
+    "Vacca, V."
+   ],
+   "n_authors": 28,
+   "year": "2024",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "528",
+   "page": "6470",
+   "doi": "10.1093/mnras/stae436",
+   "arxiv": "2402.07306",
+   "citations": 14,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...683A.149E",
+   "title": "ViCTORIA project: The LOFAR view of environmental effects in Virgo cluster star-forming galaxies",
+   "authors": [
+    "Edler, H. W.",
+    "Roberts, I. D.",
+    "Boselli, A."
+   ],
+   "n_authors": 8,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "683",
+   "page": "A149",
+   "doi": "10.1051/0004-6361/202348301",
+   "arxiv": "2311.01904",
+   "citations": 20,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024A&A...682A.171S",
+   "title": "LOFAR discovery and wide-band characterisation of an ultra-steep spectrum AGN radio remnant associated with Abell 1318",
+   "authors": [
+    "Shulevski, Aleksandar",
+    "Brienza, Marisa",
+    "Massaro, Francesco"
+   ],
+   "n_authors": 18,
+   "year": "2024",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "682",
+   "page": "A171",
+   "doi": "10.1051/0004-6361/202346824",
+   "arxiv": "2312.05713",
+   "citations": 15,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2024MNRAS.528..141L",
+   "title": "Re-energization of AGN head-tail radio galaxies in the galaxy cluster ZwCl 0634.1+47474",
+   "authors": [
+    "Lusetti, G.",
+    "de Gasperin, F.",
+    "Cuciti, V."
+   ],
+   "n_authors": 13,
+   "year": "2024",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "528",
+   "page": "141",
+   "doi": "10.1093/mnras/stad3962",
+   "arxiv": "2401.04710",
+   "citations": 16,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2023A&A...680A..30C",
+   "title": "The Planck clusters in the LOFAR sky. V. LoTSS-DR2: Mass-radio halo power correlation at low frequency",
+   "authors": [
+    "Cuciti, V.",
+    "Cassano, R.",
+    "Sereno, M."
+   ],
+   "n_authors": 20,
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "680",
+   "page": "A30",
+   "doi": "10.1051/0004-6361/202346755",
+   "arxiv": "2305.04564",
+   "citations": 37,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2023A&A...680A..31J",
+   "title": "The Planck clusters in the LOFAR sky. VI. LoTSS-DR2: Properties of radio relics",
+   "authors": [
+    "Jones, A.",
+    "de Gasperin, F.",
+    "Cuciti, V."
+   ],
+   "n_authors": 22,
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "680",
+   "page": "A31",
+   "doi": "10.1051/0004-6361/202245102",
+   "arxiv": "2301.07814",
+   "citations": 40,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2023A&A...678A.151H",
+   "title": "The LOFAR Two-Metre Sky Survey. VI. Optical identifications for the second data release",
+   "authors": [
+    "Hardcastle, M. J.",
+    "Horton, M. A.",
+    "Williams, W. L."
+   ],
+   "n_authors": 52,
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "678",
+   "page": "A151",
+   "doi": "10.1051/0004-6361/202347333",
+   "arxiv": "2309.00102",
+   "citations": 99,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2023A&A...678A.133B",
+   "title": "A three-component giant radio halo: The puzzling case of the galaxy cluster Abell 2142",
+   "authors": [
+    "Bruno, L.",
+    "Botteon, A.",
+    "Shimwell, T."
+   ],
+   "n_authors": 19,
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "678",
+   "page": "A133",
+   "doi": "10.1051/0004-6361/202347245",
+   "arxiv": "2308.07603",
+   "citations": 32,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2023A&A...676A..92B",
+   "title": "ViCTORIA project: MeerKAT H I observations of the ram pressure stripped galaxy NGC 4523",
+   "authors": [
+    "Boselli, A.",
+    "Serra, P.",
+    "de Gasperin, F."
+   ],
+   "n_authors": 25,
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "676",
+   "page": "A92",
+   "doi": "10.1051/0004-6361/202346812",
+   "arxiv": "2306.12751",
+   "citations": 17,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2023A&A...676A..24E",
+   "title": "VICTORIA project: The LOFAR HBA Virgo Cluster Survey",
+   "authors": [
+    "Edler, H. W.",
+    "de Gasperin, F.",
+    "Shimwell, T. W."
+   ],
+   "n_authors": 18,
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "676",
+   "page": "A24",
+   "doi": "10.1051/0004-6361/202346458",
+   "arxiv": "2306.04513",
+   "citations": 22,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2023A&A...674A.189B",
+   "title": "Matching LOFAR sources across radio bands",
+   "authors": [
+    "Böhme, L.",
+    "Schwarz, D. J.",
+    "de Gasperin, F."
+   ],
+   "n_authors": 5,
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "674",
+   "page": "A189",
+   "doi": "10.1051/0004-6361/202245669",
+   "arxiv": "2304.14829",
+   "citations": 7,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2023A&A...673A.108G",
+   "title": "Weakly interacting massive particle cross section limits from LOFAR observations of dwarf spheroidal galaxies",
+   "authors": [
+    "Gajović, L.",
+    "Welzmüller, F.",
+    "Heesen, V."
+   ],
+   "n_authors": 11,
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "673",
+   "page": "A108",
+   "doi": "10.1051/0004-6361/202245508",
+   "arxiv": "2303.12155",
+   "citations": 8,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2023A&A...672A..42Z",
+   "title": "The Planck clusters in the LOFAR sky. III. LoTSS-DR2: Dynamic states and density fluctuations of the intracluster medium",
+   "authors": [
+    "Zhang, X.",
+    "Simionescu, A.",
+    "Gastaldello, F."
+   ],
+   "n_authors": 22,
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "672",
+   "page": "A42",
+   "doi": "10.1051/0004-6361/202244761",
+   "arxiv": "2210.07284",
+   "citations": 27,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2023A&A...672A..43C",
+   "title": "The Planck clusters in the LOFAR sky. IV. LoTSS-DR2: Statistics of radio haloes and re-acceleration models",
+   "authors": [
+    "Cassano, R.",
+    "Cuciti, V.",
+    "Brunetti, G."
+   ],
+   "n_authors": 19,
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "672",
+   "page": "A43",
+   "doi": "10.1051/0004-6361/202244876",
+   "arxiv": "2301.08052",
+   "citations": 47,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2023A&A...672A..21H",
+   "title": "Diffusion of cosmic-ray electrons in M 51 observed with LOFAR at 54 MHz",
+   "authors": [
+    "Heesen, V.",
+    "de Gasperin, F.",
+    "Schulz, S."
+   ],
+   "n_authors": 11,
+   "year": "2023",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "672",
+   "page": "A21",
+   "doi": "10.1051/0004-6361/202245223",
+   "arxiv": "2212.06585",
+   "citations": 15,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...668A.186S",
+   "title": "Extragalactic peaked-spectrum radio sources at low frequencies are young radio galaxies",
+   "authors": [
+    "Slob, M. M.",
+    "Callingham, J. R.",
+    "Röttgering, H. J. A."
+   ],
+   "n_authors": 8,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "668",
+   "page": "A186",
+   "doi": "10.1051/0004-6361/202244651",
+   "arxiv": "2210.16570",
+   "citations": 21,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022SciA....8.7623B",
+   "title": "Magnetic fields and relativistic electrons fill entire galaxy cluster",
+   "authors": [
+    "Botteon, Andrea",
+    "van Weeren, Reinout J.",
+    "Brunetti, Gianfranco"
+   ],
+   "n_authors": 15,
+   "year": "2022",
+   "pub": "Science Advances",
+   "volume": "8",
+   "page": "eabq7623",
+   "doi": "10.1126/sciadv.abq7623",
+   "arxiv": "2211.01493",
+   "citations": 75,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...666A...8S",
+   "title": "Using the polarization properties of double radio relics to probe the turbulent compression scenario",
+   "authors": [
+    "Stuardi, C.",
+    "Bonafede, A.",
+    "Rajpurohit, K."
+   ],
+   "n_authors": 8,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "666",
+   "page": "A8",
+   "doi": "10.1051/0004-6361/202244179",
+   "arxiv": "2207.00503",
+   "citations": 21,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...666A...3E",
+   "title": "Abell 1033: Radio halo and gently reenergized tail at 54 MHz",
+   "authors": [
+    "Edler, H. W.",
+    "de Gasperin, F.",
+    "Brunetti, G."
+   ],
+   "n_authors": 10,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "666",
+   "page": "A3",
+   "doi": "10.1051/0004-6361/202243737",
+   "arxiv": "2207.11040",
+   "citations": 34,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022Natur.609..911C",
+   "title": "Galaxy clusters enveloped by vast volumes of relativistic electrons",
+   "authors": [
+    "Cuciti, V.",
+    "de Gasperin, F.",
+    "Brüggen, M."
+   ],
+   "n_authors": 15,
+   "year": "2022",
+   "pub": "Nature",
+   "volume": "609",
+   "page": "911",
+   "doi": "10.1038/s41586-022-05149-3",
+   "arxiv": "2209.13617",
+   "citations": 71,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...665A..60H",
+   "title": "Diffuse radio emission from non-Planck galaxy clusters in the LoTSS-DR2 fields",
+   "authors": [
+    "Hoang, D. N.",
+    "Brüggen, M.",
+    "Botteon, A."
+   ],
+   "n_authors": 20,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "665",
+   "page": "A60",
+   "doi": "10.1051/0004-6361/202243105",
+   "arxiv": "2206.04666",
+   "citations": 20,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...664A..83H",
+   "title": "Nearby galaxies in the LOFAR Two-metre Sky Survey. I. Insights into the non-linearity of the radio-SFR relation",
+   "authors": [
+    "Heesen, V.",
+    "Staffehl, M.",
+    "Basu, A."
+   ],
+   "n_authors": 27,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "664",
+   "page": "A83",
+   "doi": "10.1051/0004-6361/202142878",
+   "arxiv": "2204.00635",
+   "citations": 56,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...664A..25K",
+   "title": "Seeing the forest and the trees: A radio investigation of the ULIRG Mrk 273",
+   "authors": [
+    "Kukreti, P.",
+    "Morganti, R.",
+    "Bondi, M."
+   ],
+   "n_authors": 22,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "664",
+   "page": "A25",
+   "doi": "10.1051/0004-6361/202243174",
+   "arxiv": "2206.02847",
+   "citations": 9,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...664A.134S",
+   "title": "Deep learning-based imaging in radio interferometry",
+   "authors": [
+    "Schmidt, K.",
+    "Geyer, F.",
+    "Fröse, S."
+   ],
+   "n_authors": 8,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "664",
+   "page": "A134",
+   "doi": "10.1051/0004-6361/202142113",
+   "arxiv": "2203.11757",
+   "citations": 40,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...663A.105P",
+   "title": "Particle re-acceleration and diffuse radio sources in the galaxy cluster Abell 1550",
+   "authors": [
+    "Pasini, T.",
+    "Edler, H. W.",
+    "Brüggen, M."
+   ],
+   "n_authors": 17,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "663",
+   "page": "A105",
+   "doi": "10.1051/0004-6361/202243833",
+   "arxiv": "2205.12281",
+   "citations": 21,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022ApJ...933..218B",
+   "title": "The Coma Cluster at LOFAR Frequencies. II. The Halo, Relic, and a New Accretion Relic",
+   "authors": [
+    "Bonafede, A.",
+    "Brunetti, G.",
+    "Rudnick, L."
+   ],
+   "n_authors": 29,
+   "year": "2022",
+   "pub": "The Astrophysical Journal",
+   "volume": "933",
+   "page": "218",
+   "doi": "10.3847/1538-4357/ac721d",
+   "arxiv": "2203.01958",
+   "citations": 84,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...661A..13P",
+   "title": "The eROSITA Final Equatorial-Depth Survey (eFEDS). LOFAR view of brightest cluster galaxies and AGN feedback",
+   "authors": [
+    "Pasini, T.",
+    "Brüggen, M.",
+    "Hoang, D. N."
+   ],
+   "n_authors": 18,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "661",
+   "page": "A13",
+   "doi": "10.1051/0004-6361/202141211",
+   "arxiv": "2106.14524",
+   "citations": 29,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...660A..78B",
+   "title": "The Planck clusters in the LOFAR sky. I. LoTSS-DR2: New detections and sample overview",
+   "authors": [
+    "Botteon, A.",
+    "Shimwell, T. W.",
+    "Cassano, R."
+   ],
+   "n_authors": 26,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "660",
+   "page": "A78",
+   "doi": "10.1051/0004-6361/202143020",
+   "arxiv": "2202.11720",
+   "citations": 114,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022ApJ...927...80R",
+   "title": "Deep Low-frequency Radio Observations of A2256. I. The Filamentary Radio Relic",
+   "authors": [
+    "Rajpurohit, K.",
+    "van Weeren, R. J.",
+    "Hoeft, M."
+   ],
+   "n_authors": 25,
+   "year": "2022",
+   "pub": "The Astrophysical Journal",
+   "volume": "927",
+   "page": "80",
+   "doi": "10.3847/1538-4357/ac4708",
+   "arxiv": "2111.04449",
+   "citations": 49,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...659A..20I",
+   "title": "A LOFAR view into the stormy environment of the galaxy cluster 2A0335+096",
+   "authors": [
+    "Ignesti, A.",
+    "Brunetti, G.",
+    "Shimwell, T."
+   ],
+   "n_authors": 13,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "659",
+   "page": "A20",
+   "doi": "10.1051/0004-6361/202142549",
+   "arxiv": "2111.15517",
+   "citations": 26,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...659A...1S",
+   "title": "The LOFAR Two-metre Sky Survey. V. Second data release",
+   "authors": [
+    "Shimwell, T. W.",
+    "Hardcastle, M. J.",
+    "Tasse, C."
+   ],
+   "n_authors": 106,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "659",
+   "page": "A1",
+   "doi": "10.1051/0004-6361/202142484",
+   "arxiv": "2202.11733",
+   "citations": 583,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...658A...1M",
+   "title": "Sub-arcsecond imaging with the International LOFAR Telescope. I. Foundational calibration strategy and pipeline",
+   "authors": [
+    "Morabito, L. K.",
+    "Jackson, N. J.",
+    "Mooney, S."
+   ],
+   "n_authors": 74,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "658",
+   "page": "A1",
+   "doi": "10.1051/0004-6361/202140649",
+   "arxiv": "2108.07283",
+   "citations": 101,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...658A...2J",
+   "title": "Sub-arcsecond imaging with the International LOFAR Telescope. II. Completion of the LOFAR Long-Baseline Calibrator Survey",
+   "authors": [
+    "Jackson, N.",
+    "Badole, S.",
+    "Morgan, J."
+   ],
+   "n_authors": 72,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "658",
+   "page": "A2",
+   "doi": "10.1051/0004-6361/202140756",
+   "arxiv": "2108.07284",
+   "citations": 39,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...658A...9G",
+   "title": "Pushing sub-arcsecond resolution imaging down to 30 MHz with the trans-European International LOFAR Telescope",
+   "authors": [
+    "Groeneveld, C.",
+    "van Weeren, R. J.",
+    "Miley, G. K."
+   ],
+   "n_authors": 15,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "658",
+   "page": "A9",
+   "doi": "10.1051/0004-6361/202141352",
+   "arxiv": "2108.07286",
+   "citations": 15,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...658A...6K",
+   "title": "Unmasking the history of 3C 293 with LOFAR sub-arcsecond imaging",
+   "authors": [
+    "Kukreti, Pranav",
+    "Morganti, Raffaella",
+    "Shimwell, Timothy W."
+   ],
+   "n_authors": 13,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "658",
+   "page": "A6",
+   "doi": "10.1051/0004-6361/202140814",
+   "arxiv": "2108.07289",
+   "citations": 23,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...657A..43H",
+   "title": "The Galactic Faraday rotation sky 2020",
+   "authors": [
+    "Hutschenreuter, S.",
+    "Anderson, C. S.",
+    "Betti, S."
+   ],
+   "n_authors": 37,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "657",
+   "page": "A43",
+   "doi": "10.1051/0004-6361/202140486",
+   "arxiv": "2102.01709",
+   "citations": 203,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2022A&A...657A..56K",
+   "title": "The MeerKAT Galaxy Cluster Legacy Survey. I. Survey Overview and Highlights",
+   "authors": [
+    "Knowles, K.",
+    "Cotton, W. D.",
+    "Rudnick, L."
+   ],
+   "n_authors": 151,
+   "year": "2022",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "657",
+   "page": "A56",
+   "doi": "10.1051/0004-6361/202141488",
+   "arxiv": "2111.05673",
+   "citations": 164,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021NatAs...5.1261B",
+   "title": "A snapshot of the oldest active galactic nuclei feedback phases",
+   "authors": [
+    "Brienza, M.",
+    "Shimwell, T. W.",
+    "de Gasperin, F."
+   ],
+   "n_authors": 22,
+   "year": "2021",
+   "pub": "Nature Astronomy",
+   "volume": "5",
+   "page": "1261",
+   "doi": "10.1038/s41550-021-01491-0",
+   "arxiv": "2110.09189",
+   "citations": 69,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...656A.154H",
+   "title": "A 3.5 Mpc long radio relic in the galaxy cluster ClG 0217+70",
+   "authors": [
+    "Hoang, D. N.",
+    "Zhang, X.",
+    "Stuardi, C."
+   ],
+   "n_authors": 17,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "656",
+   "page": "A154",
+   "doi": "10.1051/0004-6361/202141428",
+   "arxiv": "2106.00679",
+   "citations": 27,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021MNRAS.508.3995B",
+   "title": "The ultra-steep diffuse radio emission observed in the cool-core cluster RX J1720.1+2638 with LOFAR at 54 MHz",
+   "authors": [
+    "Biava, N.",
+    "de Gasperin, F.",
+    "Bonafede, A."
+   ],
+   "n_authors": 20,
+   "year": "2021",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "508",
+   "page": "3995",
+   "doi": "10.1093/mnras/stab2840",
+   "arxiv": "2110.01629",
+   "citations": 57,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021NatAs...5.1233C",
+   "title": "The population of M dwarfs observed at low radio frequencies",
+   "authors": [
+    "Callingham, J. R.",
+    "Vedantham, H. K.",
+    "Shimwell, T. W."
+   ],
+   "n_authors": 15,
+   "year": "2021",
+   "pub": "Nature Astronomy",
+   "volume": "5",
+   "page": "1233",
+   "doi": "10.1038/s41550-021-01483-0",
+   "arxiv": "2110.03713",
+   "citations": 118,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...655A..40W",
+   "title": "The LOFAR LBA Sky Survey: Deep Fields. I. The Boötes Field",
+   "authors": [
+    "Williams, W. L.",
+    "de Gasperin, F.",
+    "Hardcastle, M. J. H."
+   ],
+   "n_authors": 12,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "655",
+   "page": "A40",
+   "doi": "10.1051/0004-6361/202141745",
+   "arxiv": "2109.14865",
+   "citations": 14,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...654A.166D",
+   "title": "A LOFAR-uGMRT spectral index study of distant radio halos",
+   "authors": [
+    "Di Gennaro, G.",
+    "van Weeren, R. J.",
+    "Cassano, R."
+   ],
+   "n_authors": 12,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "654",
+   "page": "A166",
+   "doi": "10.1051/0004-6361/202141510",
+   "arxiv": "2108.10562",
+   "citations": 24,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021ApJ...918...72F",
+   "title": "Exemplary Merging Clusters: Weak-lensing and X-Ray Analysis of the Double Radio Relic, Merging Galaxy Clusters MACS J1752.0+4440 and ZWCL 1856.8+6616",
+   "authors": [
+    "Finner, Kyle",
+    "HyeongHan, Kim",
+    "Jee, M. James"
+   ],
+   "n_authors": 11,
+   "year": "2021",
+   "pub": "The Astrophysical Journal",
+   "volume": "918",
+   "page": "72",
+   "doi": "10.3847/1538-4357/ac0d00",
+   "arxiv": "2010.02226",
+   "citations": 31,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021MNRAS.505.2628P",
+   "title": "Radio galaxies in galaxy groups: kinematics, scaling relations, and AGN feedback",
+   "authors": [
+    "Pasini, T.",
+    "Finoguenov, A.",
+    "Brüggen, M."
+   ],
+   "n_authors": 6,
+   "year": "2021",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "505",
+   "page": "2628",
+   "doi": "10.1093/mnras/stab1451",
+   "arxiv": "2105.08727",
+   "citations": 26,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...652A..37E",
+   "title": "Investigating ionospheric calibration for LOFAR 2.0 with simulated observations",
+   "authors": [
+    "Edler, H. W.",
+    "de Gasperin, F.",
+    "Rafferty, D."
+   ],
+   "n_authors": 3,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "652",
+   "page": "A37",
+   "doi": "10.1051/0004-6361/202140465",
+   "arxiv": "2105.04636",
+   "citations": 24,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021MNRAS.505.4762J",
+   "title": "Radio relics in PSZ2 G096.88+24.18: a connection with pre-existing plasma",
+   "authors": [
+    "Jones, A.",
+    "de Gasperin, F.",
+    "Cuciti, V."
+   ],
+   "n_authors": 13,
+   "year": "2021",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "505",
+   "page": "4762",
+   "doi": "10.1093/mnras/stab1443",
+   "arxiv": "2105.11906",
+   "citations": 20,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...651A.115V",
+   "title": "LOFAR observations of galaxy clusters in HETDEX. Extraction and self-calibration of individual LOFAR targets",
+   "authors": [
+    "van Weeren, R. J.",
+    "Shimwell, T. W.",
+    "Botteon, A."
+   ],
+   "n_authors": 23,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "651",
+   "page": "A115",
+   "doi": "10.1051/0004-6361/202039826",
+   "arxiv": "2011.02387",
+   "citations": 177,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021ApJ...914L..29B",
+   "title": "Discovery of a Radio Halo (and Relic) in a M<sub>500</sub><2×10<sup>14</sup> M<sub>☉</sub> Cluster",
+   "authors": [
+    "Botteon, A.",
+    "Cassano, R.",
+    "van Weeren, R. J."
+   ],
+   "n_authors": 15,
+   "year": "2021",
+   "pub": "The Astrophysical Journal Letters",
+   "volume": "914",
+   "page": "L29",
+   "doi": "10.3847/2041-8213/ac0636",
+   "arxiv": "2105.14025",
+   "citations": 24,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021MNRAS.504.1749K",
+   "title": "MERGHERS pilot: MeerKAT discovery of diffuse emission in nine massive Sunyaev-Zel'dovich-selected galaxy clusters from ACT",
+   "authors": [
+    "Knowles, K.",
+    "Pillay, D. S.",
+    "Amodeo, S."
+   ],
+   "n_authors": 29,
+   "year": "2021",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "504",
+   "page": "1749",
+   "doi": "10.1093/mnras/stab939",
+   "arxiv": "2012.15088",
+   "citations": 27,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...649A..37B",
+   "title": "Nonthermal phenomena in the center of Abell 1775. An 800 kpc head-tail, revived fossil plasma and slingshot radio halo",
+   "authors": [
+    "Botteon, A.",
+    "Giacintucci, S.",
+    "Gastaldello, F."
+   ],
+   "n_authors": 18,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "649",
+   "page": "A37",
+   "doi": "10.1051/0004-6361/202040083",
+   "arxiv": "2103.01989",
+   "citations": 32,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...648A...9M",
+   "title": "The best of both worlds: Combining LOFAR and Apertif to derive resolved radio spectral index images",
+   "authors": [
+    "Morganti, R.",
+    "Oosterloo, T. A.",
+    "Brienza, M."
+   ],
+   "n_authors": 39,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "648",
+   "page": "A9",
+   "doi": "10.1051/0004-6361/202039102",
+   "arxiv": "2011.08239",
+   "citations": 27,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...648A...1T",
+   "title": "The LOFAR Two-meter Sky Survey: Deep Fields Data Release 1. I. Direction-dependent calibration and imaging",
+   "authors": [
+    "Tasse, C.",
+    "Shimwell, T.",
+    "Hardcastle, M. J."
+   ],
+   "n_authors": 32,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "648",
+   "page": "A1",
+   "doi": "10.1051/0004-6361/202038804",
+   "arxiv": "2011.08328",
+   "citations": 254,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021MNRAS.502.2518S",
+   "title": "The intracluster magnetic field in the double relic galaxy cluster Abell 2345",
+   "authors": [
+    "Stuardi, C.",
+    "Bonafede, A.",
+    "Lovisari, L."
+   ],
+   "n_authors": 8,
+   "year": "2021",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "502",
+   "page": "2518",
+   "doi": "10.1093/mnras/stab218",
+   "arxiv": "2101.09302",
+   "citations": 51,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...647A...4G",
+   "title": "Discovery of a supercluster in the eROSITA Final Equatorial Depth Survey: X-ray properties, radio halo, and double relics",
+   "authors": [
+    "Ghirardini, V.",
+    "Bulbul, E.",
+    "Hoang, D. N."
+   ],
+   "n_authors": 31,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "647",
+   "page": "A4",
+   "doi": "10.1051/0004-6361/202039554",
+   "arxiv": "2012.11607",
+   "citations": 35,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...647A...5W",
+   "title": "First constraints on the AGN X-ray luminosity function at z ~ 6 from an eROSITA-detected quasar",
+   "authors": [
+    "Wolf, J.",
+    "Nandra, K.",
+    "Salvato, M."
+   ],
+   "n_authors": 22,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "647",
+   "page": "A5",
+   "doi": "10.1051/0004-6361/202039724",
+   "arxiv": "2101.05585",
+   "citations": 47,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...647A..50C",
+   "title": "Radio halos in a mass-selected sample of 75 galaxy clusters. I. Sample selection and data analysis",
+   "authors": [
+    "Cuciti, V.",
+    "Cassano, R.",
+    "Brunetti, G."
+   ],
+   "n_authors": 12,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "647",
+   "page": "A50",
+   "doi": "10.1051/0004-6361/202039206",
+   "arxiv": "2101.01640",
+   "citations": 41,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021A&A...647A..51C",
+   "title": "Radio halos in a mass-selected sample of 75 galaxy clusters. II. Statistical analysis",
+   "authors": [
+    "Cuciti, V.",
+    "Cassano, R.",
+    "Brunetti, G."
+   ],
+   "n_authors": 11,
+   "year": "2021",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "647",
+   "page": "A51",
+   "doi": "10.1051/0004-6361/202039208",
+   "arxiv": "2101.01641",
+   "citations": 84,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021MNRAS.500.3821B",
+   "title": "Square Kilometre Array Science Data Challenge 1: analysis and results",
+   "authors": [
+    "Bonaldi, A.",
+    "An, T.",
+    "Brüggen, M."
+   ],
+   "n_authors": 45,
+   "year": "2021",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "500",
+   "page": "3821",
+   "doi": "10.1093/mnras/staa3023",
+   "arxiv": "2009.13346",
+   "citations": 70,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021ApJ...907...32B",
+   "title": "The Coma Cluster at LOw Frequency ARray Frequencies. I. Insights into Particle Acceleration Mechanisms in the Radio Bridge",
+   "authors": [
+    "Bonafede, A.",
+    "Brunetti, G.",
+    "Vazza, F."
+   ],
+   "n_authors": 21,
+   "year": "2021",
+   "pub": "The Astrophysical Journal",
+   "volume": "907",
+   "page": "32",
+   "doi": "10.3847/1538-4357/abcb8f",
+   "arxiv": "2011.08856",
+   "citations": 56,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2021NatAs...5..268D",
+   "title": "Fast magnetic field amplification in distant galaxy clusters",
+   "authors": [
+    "Di Gennaro, Gabriella",
+    "van Weeren, Reinout J.",
+    "Brunetti, Gianfranco"
+   ],
+   "n_authors": 19,
+   "year": "2021",
+   "pub": "Nature Astronomy",
+   "volume": "5",
+   "page": "268",
+   "doi": "10.1038/s41550-020-01244-5",
+   "arxiv": "2011.01628",
+   "citations": 65,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2020MNRAS.499L..11B",
+   "title": "A giant radio bridge connecting two galaxy clusters in Abell 1758",
+   "authors": [
+    "Botteon, A.",
+    "van Weeren, R. J.",
+    "Brunetti, G."
+   ],
+   "n_authors": 17,
+   "year": "2020",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "499",
+   "page": "L11",
+   "doi": "10.1093/mnrasl/slaa142",
+   "arxiv": "2008.09613",
+   "citations": 95,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2020A&A...643A.172I",
+   "title": "The great Kite in the sky: A LOFAR observation of the radio source in Abell 2626",
+   "authors": [
+    "Ignesti, A.",
+    "Shimwell, T.",
+    "Brunetti, G."
+   ],
+   "n_authors": 18,
+   "year": "2020",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "643",
+   "page": "A172",
+   "doi": "10.1051/0004-6361/202039056",
+   "arxiv": "2009.11210",
+   "citations": 24,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2020MNRAS.498.2719T",
+   "title": "Multiple AGN activity during the BCG assembly of XDCPJ0044.0-2033 at z ∼ 1.6",
+   "authors": [
+    "Travascio, A.",
+    "Bongiorno, A.",
+    "Tozzi, P."
+   ],
+   "n_authors": 16,
+   "year": "2020",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "498",
+   "page": "2719",
+   "doi": "10.1093/mnras/staa2495",
+   "arxiv": "2008.11132",
+   "citations": 5,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2020MNRAS.497.2163P",
+   "title": "The relation between the diffuse X-ray luminosity and the radio power of the central AGN in galaxy groups",
+   "authors": [
+    "Pasini, T.",
+    "Brüggen, M.",
+    "de Gasperin, F."
+   ],
+   "n_authors": 13,
+   "year": "2020",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "497",
+   "page": "2163",
+   "doi": "10.1093/mnras/staa2049",
+   "arxiv": "2007.04999",
+   "citations": 20,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2020ApJ...897...93B",
+   "title": "The Beautiful Mess in Abell 2255",
+   "authors": [
+    "Botteon, A.",
+    "Brunetti, G.",
+    "van Weeren, R. J."
+   ],
+   "n_authors": 21,
+   "year": "2020",
+   "pub": "The Astrophysical Journal",
+   "volume": "897",
+   "page": "93",
+   "doi": "10.3847/1538-4357/ab9a2f",
+   "arxiv": "2006.04808",
+   "citations": 98,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2020A&A...634A...4M",
+   "title": "Revived fossil plasma sources in galaxy clusters",
+   "authors": [
+    "Mandal, S.",
+    "Intema, H. T.",
+    "van Weeren, R. J."
+   ],
+   "n_authors": 13,
+   "year": "2020",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "634",
+   "page": "A4",
+   "doi": "10.1051/0004-6361/201936560",
+   "arxiv": "1911.02034",
+   "citations": 56,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2020A&A...634A.138E",
+   "title": "Searching for the largest bound atoms in space",
+   "authors": [
+    "Emig, K. L.",
+    "Salas, P.",
+    "de Gasperin, F."
+   ],
+   "n_authors": 8,
+   "year": "2020",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "634",
+   "page": "A138",
+   "doi": "10.1051/0004-6361/201936562",
+   "arxiv": "1910.06374",
+   "citations": 8,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2020JSWSC..10...10F",
+   "title": "A LOFAR observation of ionospheric scintillation from two simultaneous travelling ionospheric disturbances",
+   "authors": [
+    "Fallows, Richard A.",
+    "Forte, Biagio",
+    "Astin, Ivan"
+   ],
+   "n_authors": 58,
+   "year": "2020",
+   "pub": "Journal of Space Weather and Space Climate",
+   "volume": "10",
+   "page": "10",
+   "doi": "10.1051/swsc/2020010",
+   "arxiv": "2003.04013",
+   "citations": 37,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019Galax...8....3L",
+   "title": "ConvoSource: Radio-Astronomical Source-Finding with Convolutional Neural Networks",
+   "authors": [
+    "Lukic, Vesna",
+    "de Gasperin, Francesco",
+    "Brüggen, Marcus"
+   ],
+   "n_authors": 3,
+   "year": "2020",
+   "pub": "Galaxies",
+   "volume": "8",
+   "page": "3",
+   "doi": "10.3390/galaxies8010003",
+   "arxiv": "1910.03631",
+   "citations": 33,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019AJ....158..253A",
+   "title": "Low-frequency Radio Absorption in Tycho’s Supernova Remnant",
+   "authors": [
+    "Arias, Maria",
+    "Vink, Jacco",
+    "Zhou, Ping"
+   ],
+   "n_authors": 6,
+   "year": "2019",
+   "pub": "The Astronomical Journal",
+   "volume": "158",
+   "page": "253",
+   "doi": "10.3847/1538-3881/ab4f80",
+   "arxiv": "1911.02943",
+   "citations": 14,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019MNRAS.489.3905S",
+   "title": "Particle re-acceleration and Faraday-complex structures in the RXC J1314.4-2515 galaxy cluster",
+   "authors": [
+    "Stuardi, C.",
+    "Bonafede, A.",
+    "Wittor, D."
+   ],
+   "n_authors": 12,
+   "year": "2019",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "489",
+   "page": "3905",
+   "doi": "10.1093/mnras/stz2408",
+   "arxiv": "1908.11868",
+   "citations": 53,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...630A..77B",
+   "title": "Particle acceleration in a nearby galaxy cluster pair: the role of cluster dynamics",
+   "authors": [
+    "Botteon, A.",
+    "Cassano, R.",
+    "Eckert, D."
+   ],
+   "n_authors": 20,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "630",
+   "page": "A77",
+   "doi": "10.1051/0004-6361/201936022",
+   "arxiv": "1908.07527",
+   "citations": 33,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019ApJ...882...69G",
+   "title": "Merging Cluster Collaboration: A Panchromatic Atlas of Radio Relic Mergers",
+   "authors": [
+    "Golovich, N.",
+    "Dawson, W. A.",
+    "Wittman, D. M."
+   ],
+   "n_authors": 16,
+   "year": "2019",
+   "pub": "The Astrophysical Journal",
+   "volume": "882",
+   "page": "69",
+   "doi": "10.3847/1538-4357/ab2f90",
+   "arxiv": "1806.10619",
+   "citations": 79,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019ApJ...881L..18C",
+   "title": "LOFAR Discovery of a Radio Halo in the High-redshift Galaxy Cluster PSZ2 G099.86+58.45",
+   "authors": [
+    "Cassano, R.",
+    "Botteon, A.",
+    "Di Gennaro, G."
+   ],
+   "n_authors": 18,
+   "year": "2019",
+   "pub": "The Astrophysical Journal Letters",
+   "volume": "881",
+   "page": "L18",
+   "doi": "10.3847/2041-8213/ab32ed",
+   "arxiv": "1907.10304",
+   "citations": 19,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019MNRAS.487.4775B",
+   "title": "A massive cluster at z = 0.288 caught in the process of formation: The case of Abell 959",
+   "authors": [
+    "Bîrzan, L.",
+    "Rafferty, D. A.",
+    "Cassano, R."
+   ],
+   "n_authors": 12,
+   "year": "2019",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "487",
+   "page": "4775",
+   "doi": "10.1093/mnras/stz1456",
+   "arxiv": "1905.10156",
+   "citations": 18,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...627A.176C",
+   "title": "Signatures from a merging galaxy cluster and its AGN population: LOFAR observations of Abell 1682",
+   "authors": [
+    "Clarke, A. O.",
+    "Scaife, A. M. M.",
+    "Shimwell, T."
+   ],
+   "n_authors": 16,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "627",
+   "page": "A176",
+   "doi": "10.1051/0004-6361/201935584",
+   "arxiv": "1906.07792",
+   "citations": 12,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019Sci...364..981G",
+   "title": "A radio ridge connecting two galaxy clusters in a filament of the cosmic web",
+   "authors": [
+    "Govoni, F.",
+    "Orrù, E.",
+    "Bonafede, A."
+   ],
+   "n_authors": 29,
+   "year": "2019",
+   "pub": "Science",
+   "volume": "364",
+   "page": "981",
+   "doi": "10.1126/science.aat7500",
+   "arxiv": "1906.07584",
+   "citations": 170,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019NatAs...3..838G",
+   "title": "Observations of a pre-merger shock in colliding clusters of galaxies",
+   "authors": [
+    "Gu, Liyi",
+    "Akamatsu, Hiroki",
+    "Shimwell, Timothy W."
+   ],
+   "n_authors": 13,
+   "year": "2019",
+   "pub": "Nature Astronomy",
+   "volume": "3",
+   "page": "838",
+   "doi": "10.1038/s41550-019-0798-8",
+   "arxiv": "1906.10285",
+   "citations": 35,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019AJ....157..126G",
+   "title": "Radio Galaxy Zoo: The Distortion of Radio Galaxies by Galaxy Clusters",
+   "authors": [
+    "Garon, Avery F.",
+    "Rudnick, Lawrence",
+    "Wong, O. Ivy"
+   ],
+   "n_authors": 12,
+   "year": "2019",
+   "pub": "The Astronomical Journal",
+   "volume": "157",
+   "page": "126",
+   "doi": "10.3847/1538-3881/aaff62",
+   "arxiv": "1901.05480",
+   "citations": 54,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019SSRv..215...16V",
+   "title": "Diffuse Radio Emission from Galaxy Clusters",
+   "authors": [
+    "van Weeren, R. J.",
+    "de Gasperin, F.",
+    "Akamatsu, H."
+   ],
+   "n_authors": 8,
+   "year": "2019",
+   "pub": "Space Science Reviews",
+   "volume": "215",
+   "page": "16",
+   "doi": "10.1007/s11214-019-0584-z",
+   "arxiv": "1901.04496",
+   "citations": 589,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...622A...1S",
+   "title": "The LOFAR Two-metre Sky Survey. II. First data release",
+   "authors": [
+    "Shimwell, T. W.",
+    "Tasse, C.",
+    "Hardcastle, M. J."
+   ],
+   "n_authors": 107,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "622",
+   "page": "A1",
+   "doi": "10.1051/0004-6361/201833559",
+   "arxiv": "1811.07926",
+   "citations": 607,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...622A...2W",
+   "title": "The LOFAR Two-metre Sky Survey. III. First data release: Optical/infrared identifications and value-added catalogue",
+   "authors": [
+    "Williams, W. L.",
+    "Hardcastle, M. J.",
+    "Best, P. N."
+   ],
+   "n_authors": 41,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "622",
+   "page": "A2",
+   "doi": "10.1051/0004-6361/201833564",
+   "arxiv": "1811.07927",
+   "citations": 174,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...622A...7E",
+   "title": "The first detection of radio recombination lines at cosmological distances",
+   "authors": [
+    "Emig, K. L.",
+    "Salas, P.",
+    "de Gasperin, F."
+   ],
+   "n_authors": 7,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "622",
+   "page": "A7",
+   "doi": "10.1051/0004-6361/201834052",
+   "arxiv": "1811.08104",
+   "citations": 12,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019ApJS..240...39G",
+   "title": "Merging Cluster Collaboration: Optical and Spectroscopic Survey of a Radio-selected Sample of 29 Merging Galaxy Clusters",
+   "authors": [
+    "Golovich, N.",
+    "Dawson, W. A.",
+    "Wittman, D. M."
+   ],
+   "n_authors": 14,
+   "year": "2019",
+   "pub": "The Astrophysical Journal Supplement Series",
+   "volume": "240",
+   "page": "39",
+   "doi": "10.3847/1538-4365/aaf88b",
+   "arxiv": null,
+   "citations": 46,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...622A..17S",
+   "title": "The LoTSS view of radio AGN in the local Universe. The most massive galaxies are always switched on",
+   "authors": [
+    "Sabater, J.",
+    "Best, P. N.",
+    "Hardcastle, M. J."
+   ],
+   "n_authors": 21,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "622",
+   "page": "A17",
+   "doi": "10.1051/0004-6361/201833883",
+   "arxiv": "1811.05528",
+   "citations": 233,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...622A..19B",
+   "title": "The spectacular cluster chain Abell 781 as observed with LOFAR, GMRT, and XMM-Newton",
+   "authors": [
+    "Botteon, A.",
+    "Shimwell, T. W.",
+    "Bonafede, A."
+   ],
+   "n_authors": 23,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "622",
+   "page": "A19",
+   "doi": "10.1051/0004-6361/201833861",
+   "arxiv": "1811.07930",
+   "citations": 17,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...622A..20H",
+   "title": "Radio observations of the merging galaxy cluster Abell 520",
+   "authors": [
+    "Hoang, D. N.",
+    "Shimwell, T. W.",
+    "van Weeren, R. J."
+   ],
+   "n_authors": 16,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "622",
+   "page": "A20",
+   "doi": "10.1051/0004-6361/201833900",
+   "arxiv": "1811.09713",
+   "citations": 54,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...622A..22M",
+   "title": "Ultra-steep spectrum emission in the merging galaxy cluster Abell 1914",
+   "authors": [
+    "Mandal, S.",
+    "Intema, H. T.",
+    "Shimwell, T. W."
+   ],
+   "n_authors": 17,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "622",
+   "page": "A22",
+   "doi": "10.1051/0004-6361/201833992",
+   "arxiv": "1811.08430",
+   "citations": 29,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...622A..24S",
+   "title": "A LOFAR study of non-merging massive galaxy clusters",
+   "authors": [
+    "Savini, F.",
+    "Bonafede, A.",
+    "Brüggen, M."
+   ],
+   "n_authors": 18,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "622",
+   "page": "A24",
+   "doi": "10.1051/0004-6361/201833882",
+   "arxiv": "1811.08410",
+   "citations": 73,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...622A..25W",
+   "title": "Evolutionary phases of merging clusters as seen by LOFAR",
+   "authors": [
+    "Wilber, A.",
+    "Brüggen, M.",
+    "Bonafede, A."
+   ],
+   "n_authors": 16,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "622",
+   "page": "A25",
+   "doi": "10.1051/0004-6361/201833884",
+   "arxiv": "1811.07929",
+   "citations": 35,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2019A&A...622A..12H",
+   "title": "Radio-loud AGN in the first LoTSS data release. The lifetimes and environmental impact of jet-driven sources",
+   "authors": [
+    "Hardcastle, M. J.",
+    "Williams, W. L.",
+    "Best, P. N."
+   ],
+   "n_authors": 23,
+   "year": "2019",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "622",
+   "page": "A12",
+   "doi": "10.1051/0004-6361/201833893",
+   "arxiv": "1811.07943",
+   "citations": 177,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018MNRAS.479..776V",
+   "title": "Observations of a nearby filament of galaxy clusters with the Sardinia Radio Telescope",
+   "authors": [
+    "Vacca, V.",
+    "Murgia, M.",
+    "Govoni, F."
+   ],
+   "n_authors": 32,
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "479",
+   "page": "776",
+   "doi": "10.1093/mnras/sty1151",
+   "arxiv": "1804.09199",
+   "citations": 49,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018MNRAS.478.2927B",
+   "title": "LOFAR discovery of radio emission in MACS J0717.5+3745",
+   "authors": [
+    "Bonafede, A.",
+    "Brüggen, M.",
+    "Rafferty, D."
+   ],
+   "n_authors": 19,
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "478",
+   "page": "2927",
+   "doi": "10.1093/mnras/sty1121",
+   "arxiv": "1805.00473",
+   "citations": 43,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018MNRAS.478.2218H",
+   "title": "Radio observations of the double-relic galaxy cluster Abell 1240",
+   "authors": [
+    "Hoang, D. N.",
+    "Shimwell, T. W.",
+    "van Weeren, R. J."
+   ],
+   "n_authors": 19,
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "478",
+   "page": "2218",
+   "doi": "10.1093/mnras/sty1123",
+   "arxiv": "1804.11352",
+   "citations": 50,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018MNRAS.478.2234S",
+   "title": "First evidence of diffuse ultra-steep-spectrum radio emission surrounding the cool core of a cluster",
+   "authors": [
+    "Savini, F.",
+    "Bonafede, A.",
+    "Brüggen, M."
+   ],
+   "n_authors": 17,
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "478",
+   "page": "2234",
+   "doi": "10.1093/mnras/sty1125",
+   "arxiv": "1805.01900",
+   "citations": 58,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018MNRAS.478..885B",
+   "title": "LOFAR discovery of a double radio halo system in Abell 1758 and radio/X-ray study of the cluster pair",
+   "authors": [
+    "Botteon, A.",
+    "Shimwell, T. W.",
+    "Bonafede, A."
+   ],
+   "n_authors": 17,
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "478",
+   "page": "885",
+   "doi": "10.1093/mnras/sty1102",
+   "arxiv": "1804.09187",
+   "citations": 62,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018MNRAS.477.3461B",
+   "title": "Discovery of large-scale diffuse radio emission in low-mass galaxy cluster Abell 1931",
+   "authors": [
+    "Brüggen, M.",
+    "Rafferty, D.",
+    "Bonafede, A."
+   ],
+   "n_authors": 15,
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "477",
+   "page": "3461",
+   "doi": "10.1093/mnras/sty851",
+   "arxiv": "1804.01099",
+   "citations": 10,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018MNRAS.476.3415W",
+   "title": "Search for low-frequency diffuse radio emission around a shock in the massive galaxy cluster MACS J0744.9+3927",
+   "authors": [
+    "Wilber, A.",
+    "Brüggen, M.",
+    "Bonafede, A."
+   ],
+   "n_authors": 14,
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "476",
+   "page": "3415",
+   "doi": "10.1093/mnras/sty414",
+   "arxiv": "1802.06791",
+   "citations": 12,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018A&A...612A.110A",
+   "title": "Low-frequency radio absorption in Cassiopeia A",
+   "authors": [
+    "Arias, M.",
+    "Vink, J.",
+    "de Gasperin, F."
+   ],
+   "n_authors": 65,
+   "year": "2018",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "612",
+   "page": "A110",
+   "doi": "10.1051/0004-6361/201732411",
+   "arxiv": "1801.04887",
+   "citations": 42,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018MNRAS.475.3429W",
+   "title": "LOFAR-Boötes: properties of high- and low-excitation radio galaxies at 0.5 < z < 2.0",
+   "authors": [
+    "Williams, W. L.",
+    "Calistro Rivera, G.",
+    "Best, P. N."
+   ],
+   "n_authors": 16,
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "475",
+   "page": "3429",
+   "doi": "10.1093/mnras/sty026",
+   "arxiv": "1711.10504",
+   "citations": 60,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018A&A...611A..57M",
+   "title": "Tracking of an electron beam through the solar corona with LOFAR",
+   "authors": [
+    "Mann, G.",
+    "Breitling, F.",
+    "Vocks, C."
+   ],
+   "n_authors": 91,
+   "year": "2018",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "611",
+   "page": "A57",
+   "doi": "10.1051/0004-6361/201629017",
+   "arxiv": null,
+   "citations": 40,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018MNRAS.474.5023S",
+   "title": "Studying the late evolution of a radio-loud AGN in a galaxy group with LOFAR",
+   "authors": [
+    "Savini, F.",
+    "Bonafede, A.",
+    "Brüggen, M."
+   ],
+   "n_authors": 20,
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "474",
+   "page": "5023",
+   "doi": "10.1093/mnras/stx2876",
+   "arxiv": "1711.01273",
+   "citations": 16,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018MNRAS.475..942F",
+   "title": "An image-based search for pulsars among Fermi unassociated LAT sources",
+   "authors": [
+    "Frail, D. A.",
+    "Ray, P. S.",
+    "Mooley, K. P."
+   ],
+   "n_authors": 12,
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "475",
+   "page": "942",
+   "doi": "10.1093/mnras/stx3281",
+   "arxiv": "1712.06609",
+   "citations": 47,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2018MNRAS.473.3536W",
+   "title": "LOFAR discovery of an ultra-steep radio halo and giant head-tail radio galaxy in Abell 1132",
+   "authors": [
+    "Wilber, A.",
+    "Brüggen, M.",
+    "Bonafede, A."
+   ],
+   "n_authors": 19,
+   "year": "2018",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "473",
+   "page": "3536",
+   "doi": "10.1093/mnras/stx2568",
+   "arxiv": "1708.08928",
+   "citations": 75,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2017AJ....154..253K",
+   "title": "Radio Galaxy Zoo: A Search for Hybrid Morphology Radio Galaxies",
+   "authors": [
+    "Kapińska, A. D.",
+    "Terentev, I.",
+    "Wong, O. I."
+   ],
+   "n_authors": 17,
+   "year": "2017",
+   "pub": "The Astronomical Journal",
+   "volume": "154",
+   "page": "253",
+   "doi": "10.3847/1538-3881/aa90b7",
+   "arxiv": "1711.09611",
+   "citations": 54,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2017MNRAS.472.3605L",
+   "title": "Observations of the galaxy cluster CIZA J2242.8+5301 with the Sardinia Radio Telescope",
+   "authors": [
+    "Loi, F.",
+    "Murgia, M.",
+    "Govoni, F."
+   ],
+   "n_authors": 28,
+   "year": "2017",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "472",
+   "page": "3605",
+   "doi": "10.1093/mnras/stx2197",
+   "arxiv": "1708.07125",
+   "citations": 35,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2017MNRAS.472..940K",
+   "title": "Discovery of a radio relic in the low mass, merging galaxy cluster PLCK G200.9-28.2",
+   "authors": [
+    "Kale, Ruta",
+    "Wik, Daniel R.",
+    "Giacintucci, Simona"
+   ],
+   "n_authors": 8,
+   "year": "2017",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "472",
+   "page": "940",
+   "doi": "10.1093/mnras/stx2031",
+   "arxiv": "1708.01718",
+   "citations": 23,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2017MNRAS.472..636C",
+   "title": "Radio Galaxy Zoo: cosmological alignment of radio sources",
+   "authors": [
+    "Contigiani, O.",
+    "de Gasperin, F.",
+    "Miley, G. K."
+   ],
+   "n_authors": 9,
+   "year": "2017",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "472",
+   "page": "636",
+   "doi": "10.1093/mnras/stx1977",
+   "arxiv": "1708.00301",
+   "citations": 30,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2017ApJ...847..136B",
+   "title": "Calibration of Ultraviolet, Mid-infrared, and Radio Star Formation Rate Indicators",
+   "authors": [
+    "Brown, Michael J. I.",
+    "Moustakas, John",
+    "Kennicutt, Robert C."
+   ],
+   "n_authors": 15,
+   "year": "2017",
+   "pub": "The Astrophysical Journal",
+   "volume": "847",
+   "page": "136",
+   "doi": "10.3847/1538-4357/aa8ad2",
+   "arxiv": "1709.00183",
+   "citations": 68,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2017MNRAS.471.1107H",
+   "title": "Deep LOFAR observations of the merging galaxy cluster CIZA J2242.8+5301",
+   "authors": [
+    "Hoang, D. N.",
+    "Shimwell, T. W.",
+    "Stroe, A."
+   ],
+   "n_authors": 23,
+   "year": "2017",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "471",
+   "page": "1107",
+   "doi": "10.1093/mnras/stx1645",
+   "arxiv": "1706.09903",
+   "citations": 71,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2017MNRAS.470.3465B",
+   "title": "On the absence of radio haloes in clusters with double relics",
+   "authors": [
+    "Bonafede, A.",
+    "Cassano, R.",
+    "Brüggen, M."
+   ],
+   "n_authors": 13,
+   "year": "2017",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "470",
+   "page": "3465",
+   "doi": "10.1093/mnras/stx1475",
+   "arxiv": "1706.04203",
+   "citations": 49,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2017MNRAS.469.3468C",
+   "title": "The LOFAR window on star-forming galaxies and AGNs - curved radio SEDs and IR-radio correlation at 0<z<2.5",
+   "authors": [
+    "Calistro Rivera, G.",
+    "Williams, W. L.",
+    "Hardcastle, M. J."
+   ],
+   "n_authors": 23,
+   "year": "2017",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "469",
+   "page": "3468",
+   "doi": "10.1093/mnras/stx1040",
+   "arxiv": "1704.06268",
+   "citations": 148,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2017A&A...603A.122G",
+   "title": "Sardinia Radio Telescope observations of Abell 194. The intra-cluster magnetic field power spectrum",
+   "authors": [
+    "Govoni, F.",
+    "Murgia, M.",
+    "Vacca, V."
+   ],
+   "n_authors": 33,
+   "year": "2017",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "603",
+   "page": "A122",
+   "doi": "10.1051/0004-6361/201630349",
+   "arxiv": "1703.08688",
+   "citations": 94,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2017MNRAS.468.2526B",
+   "title": "Searching for pulsars associated with the Fermi GeV excess",
+   "authors": [
+    "Bhakta, D.",
+    "Deneva, J. S.",
+    "Frail, D. A."
+   ],
+   "n_authors": 7,
+   "year": "2017",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "468",
+   "page": "2526",
+   "doi": "10.1093/mnras/stx656",
+   "arxiv": "1703.04804",
+   "citations": 27,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2017A&A...598A.104S",
+   "title": "The LOFAR Two-metre Sky Survey. I. Survey description and preliminary data release",
+   "authors": [
+    "Shimwell, T. W.",
+    "Röttgering, H. J. A.",
+    "Best, P. N."
+   ],
+   "n_authors": 72,
+   "year": "2017",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "598",
+   "page": "A104",
+   "doi": "10.1051/0004-6361/201629313",
+   "arxiv": "1611.02700",
+   "citations": 677,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2016MNRAS.463.2997M",
+   "title": "The Lockman Hole project: LOFAR observations and spectral index properties of low-frequency radio sources",
+   "authors": [
+    "Mahony, E. K.",
+    "Morganti, R.",
+    "Prandoni, I."
+   ],
+   "n_authors": 24,
+   "year": "2016",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "463",
+   "page": "2997",
+   "doi": "10.1093/mnras/stw2225",
+   "arxiv": "1609.00537",
+   "citations": 85,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2016MNRAS.463.3143M",
+   "title": "LOFAR imaging of Cygnus A - direct detection of a turnover in the hotspot radio spectra",
+   "authors": [
+    "McKean, J. P.",
+    "Godfrey, L. E. H.",
+    "Vegetti, S."
+   ],
+   "n_authors": 78,
+   "year": "2016",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "463",
+   "page": "3143",
+   "doi": "10.1093/mnras/stw2105",
+   "arxiv": "2103.16961",
+   "citations": 67,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2016A&A...595A..86J",
+   "title": "LBCS: The LOFAR Long-Baseline Calibrator Survey",
+   "authors": [
+    "Jackson, N.",
+    "Tagore, A.",
+    "Deller, A."
+   ],
+   "n_authors": 79,
+   "year": "2016",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "595",
+   "page": "A86",
+   "doi": "10.1051/0004-6361/201629016",
+   "arxiv": "1608.02133",
+   "citations": 48,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2016MNRAS.462.1910H",
+   "title": "LOFAR/H-ATLAS: a deep low-frequency survey of the Herschel-ATLAS North Galactic Pole field",
+   "authors": [
+    "Hardcastle, M. J.",
+    "Gürkan, G.",
+    "van Weeren, R. J."
+   ],
+   "n_authors": 28,
+   "year": "2016",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "462",
+   "page": "1910",
+   "doi": "10.1093/mnras/stw1763",
+   "arxiv": "1606.09437",
+   "citations": 147,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2016MNRAS.460.2385W",
+   "title": "LOFAR 150-MHz observations of the Boötes field: catalogue and source counts",
+   "authors": [
+    "Williams, W. L.",
+    "van Weeren, R. J.",
+    "Röttgering, H. J. A."
+   ],
+   "n_authors": 35,
+   "year": "2016",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "460",
+   "page": "2385",
+   "doi": "10.1093/mnras/stw1056",
+   "arxiv": "1605.01531",
+   "citations": 237,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2016MNRAS.459..277S",
+   "title": "A plethora of diffuse steep spectrum radio sources in Abell 2034 revealed by LOFAR",
+   "authors": [
+    "Shimwell, T. W.",
+    "Luckin, J.",
+    "Brüggen, M."
+   ],
+   "n_authors": 31,
+   "year": "2016",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "459",
+   "page": "277",
+   "doi": "10.1093/mnras/stw661",
+   "arxiv": "1603.06591",
+   "citations": 57,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2016MNRAS.456.2321S",
+   "title": "LOFAR MSSS: detection of a low-frequency radio transient in 400 h of monitoring of the North Celestial Pole",
+   "authors": [
+    "Stewart, A. J.",
+    "Fender, R. P.",
+    "Broderick, J. W."
+   ],
+   "n_authors": 102,
+   "year": "2016",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "456",
+   "page": "2321",
+   "doi": "10.1093/mnras/stv2797",
+   "arxiv": "1512.00014",
+   "citations": 74,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2016ApJS..223....2V",
+   "title": "LOFAR Facet Calibration",
+   "authors": [
+    "van Weeren, R. J.",
+    "Williams, W. L.",
+    "Hardcastle, M. J."
+   ],
+   "n_authors": 42,
+   "year": "2016",
+   "pub": "The Astrophysical Journal Supplement Series",
+   "volume": "223",
+   "page": "2",
+   "doi": "10.3847/0067-0049/223/1/2",
+   "arxiv": "1601.05422",
+   "citations": 257,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2016A&A...587A...3G",
+   "title": "Imaging Jupiter's radiation belts down to 127 MHz with LOFAR",
+   "authors": [
+    "Girard, J. N.",
+    "Zarka, P.",
+    "Tasse, C."
+   ],
+   "n_authors": 74,
+   "year": "2016",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "587",
+   "page": "A3",
+   "doi": "10.1051/0004-6361/201527518",
+   "arxiv": "1511.09118",
+   "citations": 20,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2016Natur.531...70B",
+   "title": "A large light-mass component of cosmic rays at 10<sup>17</sup>-10<sup>17.5</sup> electronvolts from radio observations",
+   "authors": [
+    "Buitink, S.",
+    "Corstanje, A.",
+    "Falcke, H."
+   ],
+   "n_authors": 104,
+   "year": "2016",
+   "pub": "Nature",
+   "volume": "531",
+   "page": "70",
+   "doi": "10.1038/nature16976",
+   "arxiv": "1603.01594",
+   "citations": 152,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2016ApJ...818..204V",
+   "title": "LOFAR, VLA, and Chandra Observations of the Toothbrush Galaxy Cluster",
+   "authors": [
+    "van Weeren, R. J.",
+    "Brunetti, G.",
+    "Brüggen, M."
+   ],
+   "n_authors": 42,
+   "year": "2016",
+   "pub": "The Astrophysical Journal",
+   "volume": "818",
+   "page": "204",
+   "doi": "10.3847/0004-637X/818/2/204",
+   "arxiv": "1601.06029",
+   "citations": 171,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2015MNRAS.454.3391B",
+   "title": "Radio haloes in Sunyaev-Zel'dovich-selected clusters of galaxies: the making of a halo?",
+   "authors": [
+    "Bonafede, A.",
+    "Intema, H.",
+    "Brüggen, M."
+   ],
+   "n_authors": 11,
+   "year": "2015",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "454",
+   "page": "3391",
+   "doi": "10.1093/mnras/stv2065",
+   "arxiv": "1509.02536",
+   "citations": 25,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2015A&A...583A..89S",
+   "title": "AGN duty cycle estimates for the ultra-steep spectrum radio relic VLSS J1431.8+1331",
+   "authors": [
+    "Shulevski, A.",
+    "Morganti, R.",
+    "Barthel, P. D."
+   ],
+   "n_authors": 22,
+   "year": "2015",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "583",
+   "page": "A89",
+   "doi": "10.1051/0004-6361/201525632",
+   "arxiv": "1510.01479",
+   "citations": 27,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2015JInst..10P1005N",
+   "title": "Calibrating the absolute amplitude scale for air showers measured at LOFAR",
+   "authors": [
+    "Nelles, A.",
+    "Hörandel, J. R.",
+    "Karskens, T."
+   ],
+   "n_authors": 77,
+   "year": "2015",
+   "pub": "Journal of Instrumentation",
+   "volume": "10",
+   "page": "P11005",
+   "doi": "10.1088/1748-0221/10/11/P11005",
+   "arxiv": "1507.08932",
+   "citations": 35,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2015A&A...582A.123H",
+   "title": "The LOFAR Multifrequency Snapshot Sky Survey (MSSS). I. Survey description and first results",
+   "authors": [
+    "Heald, G. H.",
+    "Pizzo, R. F.",
+    "Orrú, E."
+   ],
+   "n_authors": 150,
+   "year": "2015",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "582",
+   "page": "A123",
+   "doi": "10.1051/0004-6361/201425210",
+   "arxiv": "1509.01257",
+   "citations": 106,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2015MNRAS.451.4021S",
+   "title": "KAT-7 detection of radio halo emission in the Triangulum Australis galaxy cluster",
+   "authors": [
+    "Scaife, Anna M. M.",
+    "Oozeer, Nadeem",
+    "de Gasperin, Francesco"
+   ],
+   "n_authors": 6,
+   "year": "2015",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "451",
+   "page": "4021",
+   "doi": "10.1093/mnras/stv911",
+   "arxiv": "1504.06116",
+   "citations": 11,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2015A&A...579A..27S",
+   "title": "The peculiar radio galaxy 4C 35.06: a case for recurrent AGN activity?",
+   "authors": [
+    "Shulevski, A.",
+    "Morganti, R.",
+    "Barthel, P. D."
+   ],
+   "n_authors": 88,
+   "year": "2015",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "579",
+   "page": "A27",
+   "doi": "10.1051/0004-6361/201425416",
+   "arxiv": "1504.06642",
+   "citations": 37,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2015MNRAS.450.2291V",
+   "title": "Lunar occultation of the diffuse radio sky: LOFAR measurements between 35 and 80 MHz",
+   "authors": [
+    "Vedantham, H. K.",
+    "Koopmans, L. V. E.",
+    "de Bruyn, A. G."
+   ],
+   "n_authors": 95,
+   "year": "2015",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "450",
+   "page": "2291",
+   "doi": "10.1093/mnras/stv746",
+   "arxiv": "1407.4244",
+   "citations": 23,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2015A&A...575A..90G",
+   "title": "LOFAR sparse image reconstruction",
+   "authors": [
+    "Garsden, H.",
+    "Girard, J. N.",
+    "Starck, J. L."
+   ],
+   "n_authors": 81,
+   "year": "2015",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "575",
+   "page": "A90",
+   "doi": "10.1051/0004-6361/201424504",
+   "arxiv": "1406.7242",
+   "citations": 87,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2015A&A...574A..73M",
+   "title": "The LOFAR long baseline snapshot calibrator survey",
+   "authors": [
+    "Moldón, J.",
+    "Deller, A. T.",
+    "Wucknitz, O."
+   ],
+   "n_authors": 85,
+   "year": "2015",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "574",
+   "page": "A73",
+   "doi": "10.1051/0004-6361/201425042",
+   "arxiv": "1411.2743",
+   "citations": 32,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2015APh....61...22C",
+   "title": "The shape of the radio wavefront of extensive air showers as measured with LOFAR",
+   "authors": [
+    "Corstanje, A.",
+    "Schellart, P.",
+    "Nelles, A."
+   ],
+   "n_authors": 81,
+   "year": "2015",
+   "pub": "Astroparticle Physics",
+   "volume": "61",
+   "page": "22",
+   "doi": "10.1016/j.astropartphys.2014.06.001",
+   "arxiv": "1404.3907",
+   "citations": 71,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2014ApJ...793...82V",
+   "title": "LOFAR Low-band Antenna Observations of the 3C 295 and Boötes Fields: Source Counts and Ultra-steep Spectrum Sources",
+   "authors": [
+    "van Weeren, R. J.",
+    "Williams, W. L.",
+    "Tasse, C."
+   ],
+   "n_authors": 101,
+   "year": "2014",
+   "pub": "The Astrophysical Journal",
+   "volume": "793",
+   "page": "82",
+   "doi": "10.1088/0004-637X/793/2/82",
+   "arxiv": "1409.5437",
+   "citations": 32,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2014A&A...570A..60C",
+   "title": "The LOFAR pilot surveys for pulsars and fast radio transients",
+   "authors": [
+    "Coenen, Thijs",
+    "van Leeuwen, Joeri",
+    "Hessels, Jason W. T."
+   ],
+   "n_authors": 90,
+   "year": "2014",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "570",
+   "page": "A60",
+   "doi": "10.1051/0004-6361/201424495",
+   "arxiv": "1408.0411",
+   "citations": 109,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2014A&A...568A.101J",
+   "title": "Initial LOFAR observations of epoch of reionization windows. II. Diffuse polarized emission in the ELAIS-N1 field",
+   "authors": [
+    "Jelić, V.",
+    "de Bruyn, A. G.",
+    "Mevius, M."
+   ],
+   "n_authors": 109,
+   "year": "2014",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "568",
+   "page": "A101",
+   "doi": "10.1051/0004-6361/201423998",
+   "arxiv": "1407.2093",
+   "citations": 95,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2014A&A...568A..67M",
+   "title": "LOFAR tied-array imaging of Type III solar radio bursts",
+   "authors": [
+    "Morosan, D. E.",
+    "Gallagher, P. T.",
+    "Zucca, P."
+   ],
+   "n_authors": 85,
+   "year": "2014",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "568",
+   "page": "A67",
+   "doi": "10.1051/0004-6361/201423936",
+   "arxiv": "1407.4385",
+   "citations": 75,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2014ApJ...786L..17V",
+   "title": "A Distant Radio Mini-halo in the Phoenix Galaxy Cluster",
+   "authors": [
+    "van Weeren, R. J.",
+    "Intema, H. T.",
+    "Lal, D. V."
+   ],
+   "n_authors": 12,
+   "year": "2014",
+   "pub": "The Astrophysical Journal Letters",
+   "volume": "786",
+   "page": "L17",
+   "doi": "10.1088/2041-8205/786/2/L17",
+   "arxiv": "1404.3718",
+   "citations": 34,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2014ApJ...781L..32V",
+   "title": "The Discovery of a Radio Halo in PLCK G147.3-16.6 at z = 0.65",
+   "authors": [
+    "van Weeren, R. J.",
+    "Intema, H. T.",
+    "Lal, D. V."
+   ],
+   "n_authors": 12,
+   "year": "2014",
+   "pub": "The Astrophysical Journal Letters",
+   "volume": "781",
+   "page": "L32",
+   "doi": "10.1088/2041-8205/781/2/L32",
+   "arxiv": "1401.6175",
+   "citations": 18,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2014MNRAS.437.3506O",
+   "title": "Discovery of carbon radio recombination lines in absorption towards Cygnus A",
+   "authors": [
+    "Oonk, J. B. R.",
+    "van Weeren, R. J.",
+    "Salgado, F."
+   ],
+   "n_authors": 103,
+   "year": "2014",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "437",
+   "page": "3506",
+   "doi": "10.1093/mnras/stt2158",
+   "arxiv": "1401.2876",
+   "citations": 18,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2013A&A...560A..98S",
+   "title": "Detecting cosmic rays with the LOFAR radio telescope",
+   "authors": [
+    "Schellart, P.",
+    "Nelles, A.",
+    "Buitink, S."
+   ],
+   "n_authors": 105,
+   "year": "2013",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "560",
+   "page": "A98",
+   "doi": "10.1051/0004-6361/201322683",
+   "arxiv": "1311.1399",
+   "citations": 130,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2013A&A...558A..72I",
+   "title": "Studying Galactic interstellar turbulence through fluctuations in synchrotron emission. First LOFAR Galactic foreground detection",
+   "authors": [
+    "Iacobelli, M.",
+    "Haverkorn, M.",
+    "Orrú, E."
+   ],
+   "n_authors": 88,
+   "year": "2013",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "558",
+   "page": "A72",
+   "doi": "10.1051/0004-6361/201322013",
+   "arxiv": "1308.2804",
+   "citations": 99,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2013MNRAS.435..584O",
+   "title": "The brightness and spatial distributions of terrestrial radio sources",
+   "authors": [
+    "Offringa, A. R.",
+    "de Bruyn, A. G.",
+    "Zaroubi, S."
+   ],
+   "n_authors": 78,
+   "year": "2013",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "volume": "435",
+   "page": "584",
+   "doi": "10.1093/mnras/stt1337",
+   "arxiv": "1307.5580",
+   "citations": 19,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2013A&A...556A...2V",
+   "title": "LOFAR: The LOw-Frequency ARray",
+   "authors": [
+    "van Haarlem, M. P.",
+    "Wise, M. W.",
+    "Gunst, A. W."
+   ],
+   "n_authors": 201,
+   "year": "2013",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "556",
+   "page": "A2",
+   "doi": "10.1051/0004-6361/201220873",
+   "arxiv": "1305.3550",
+   "citations": 2581,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2013AN....334..333R",
+   "title": "The \"Sausage\" and \"Toothbrush\" clusters of galaxies and the prospects of LOFAR observations of clusters of galaxies",
+   "authors": [
+    "Röttgering, H.",
+    "van Weeren, R.",
+    "Brüggen, M."
+   ],
+   "n_authors": 30,
+   "year": "2013",
+   "pub": "Astronomische Nachrichten",
+   "volume": "334",
+   "page": "333",
+   "doi": "10.1002/asna.201211847",
+   "arxiv": null,
+   "citations": 2,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2013A&A...552A..58S",
+   "title": "Calibrating high-precision Faraday rotation measurements for LOFAR and the next generation of low-frequency radio telescopes",
+   "authors": [
+    "Sotomayor-Beltran, C.",
+    "Sobey, C.",
+    "Hessels, J. W. T."
+   ],
+   "n_authors": 80,
+   "year": "2013",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "552",
+   "page": "A58",
+   "doi": "10.1051/0004-6361/201220728",
+   "arxiv": "1303.6230",
+   "citations": 148,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2013A&A...552A..61H",
+   "title": "Differential frequency-dependent delay from the pulsar magnetosphere",
+   "authors": [
+    "Hassall, T. E.",
+    "Stappers, B. W.",
+    "Weltevrede, P."
+   ],
+   "n_authors": 63,
+   "year": "2013",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "552",
+   "page": "A61",
+   "doi": "10.1051/0004-6361/201220764",
+   "arxiv": "1302.2321",
+   "citations": 30,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2013A&A...551L..11A",
+   "title": "LOFAR detections of low-frequency radio recombination lines towards Cassiopeia A",
+   "authors": [
+    "Asgekar, A.",
+    "Oonk, J. B. R.",
+    "Yatawatta, S."
+   ],
+   "n_authors": 92,
+   "year": "2013",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "551",
+   "page": "L11",
+   "doi": "10.1051/0004-6361/201221001",
+   "arxiv": "1302.3128",
+   "citations": 20,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2013A&A...550A.136Y",
+   "title": "Initial deep LOFAR observations of epoch of reionization windows. I. The north celestial pole",
+   "authors": [
+    "Yatawatta, S.",
+    "de Bruyn, A. G.",
+    "Brentjens, M. A."
+   ],
+   "n_authors": 89,
+   "year": "2013",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "550",
+   "page": "A136",
+   "doi": "10.1051/0004-6361/201220874",
+   "arxiv": "1301.1630",
+   "citations": 163,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2013Sci...339..436H",
+   "title": "Synchronous X-ray and Radio Mode Switches: A Rapid Global Transformation of the Pulsar Magnetosphere",
+   "authors": [
+    "Hermsen, W.",
+    "Hessels, J. W. T.",
+    "Kuiper, L."
+   ],
+   "n_authors": 89,
+   "year": "2013",
+   "pub": "Science",
+   "volume": "339",
+   "page": "436",
+   "doi": "10.1126/science.1230960",
+   "arxiv": "1302.0203",
+   "citations": 136,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2012A&A...543A..43V",
+   "title": "First LOFAR observations at very low frequencies of cluster-scale non-thermal emission: the case of Abell 2256",
+   "authors": [
+    "van Weeren, R. J.",
+    "Röttgering, H. J. A.",
+    "Rafferty, D. A."
+   ],
+   "n_authors": 85,
+   "year": "2012",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "543",
+   "page": "A43",
+   "doi": "10.1051/0004-6361/201219154",
+   "arxiv": "1205.4730",
+   "citations": 65,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2012CRPhy..13...28T",
+   "title": "LOFAR calibration and wide-field imaging",
+   "authors": [
+    "Tasse, Cyril",
+    "van Diepen, Ger",
+    "van der Tol, Sebastiaan"
+   ],
+   "n_authors": 26,
+   "year": "2012",
+   "pub": "Comptes Rendus Physique",
+   "volume": "13",
+   "page": "28",
+   "doi": "10.1016/j.crhy.2011.10.006",
+   "arxiv": null,
+   "citations": 13,
+   "doctype": ""
+  },
+  {
+   "bibcode": "2011JApA...32..589H",
+   "title": "LOFAR: Recent Imaging Results and Future Prospects",
+   "authors": [
+    "Heald, George",
+    "Bell, Michael R.",
+    "Horneffer, Andreas"
+   ],
+   "n_authors": 31,
+   "year": "2011",
+   "pub": "Journal of Astrophysics and Astronomy",
+   "volume": "32",
+   "page": "589",
+   "doi": "10.1007/s12036-011-9125-1",
+   "arxiv": "1106.3195",
+   "citations": 24,
+   "doctype": ""
+  }
+ ]
 }

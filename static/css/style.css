@@ -111,12 +111,12 @@ a:hover { text-decoration-thickness: 2px; }
 .skip { position: absolute; left: -999px; }
 .skip:focus { left: 1rem; top: 1rem; background: var(--paper); color: var(--ink); padding: .25rem .5rem; z-index: 2; }
 
-.layout { display: grid; grid-template-columns: 17.5rem minmax(0, 1fr); max-width: 84rem; margin: 0 auto; }
+.layout { display: grid; grid-template-columns: 16.5rem minmax(0, 1fr); }
 
 /* Left column -------------------------------------------------------- */
 .rail {
   position: sticky; top: 0; height: 100vh; overflow-y: auto;
-  display: flex; flex-direction: column; padding: 2.2rem 1.5rem 1.4rem 1.75rem; color: var(--rail-ink);
+  display: flex; flex-direction: column; padding: 2.2rem 1.25rem 1.4rem 1.1rem; color: var(--rail-ink);
 }
 .portrait { display: block; width: 8.75rem; }
 .portrait img {
@@ -151,7 +151,7 @@ a:hover { text-decoration-thickness: 2px; }
 .theme-toggle[data-next="dark"] .moon { display: inline; }
 
 /* Content panel ---------------------------------------------------------- */
-main { padding: 1.5rem 1.5rem 1.5rem 0; min-width: 0; }
+main { padding: 1.5rem 1.5rem 1.5rem .5rem; min-width: 0; max-width: 74rem; }
 /* Each section is its own card; the sky shows in the gaps between them */
 .section {
   scroll-margin-top: 1.5rem; padding: 3rem clamp(1.25rem, 4.5vw, 4rem) 2.6rem;
@@ -241,10 +241,22 @@ pre { background: var(--code-bg); padding: .9rem 1rem; overflow-x: auto; line-he
 .chip.first { color: var(--warm); border-color: var(--band); }
 .chip.co { color: var(--heading); border-color: color-mix(in srgb, var(--heading) 45%, transparent); }
 
-/* Talks: compact list */
-#talks ul { font-size: 1rem; }
-#talks li { margin: .3rem 0; }
-#talks h3 { margin-top: 1.6rem; }
+/* Talks: date, kind, title, venue */
+.section > .talks { max-width: var(--wide); }
+.talks { list-style: none; margin: 0 0 .5rem; padding: 0; }
+.talks > li.talk { display: grid; grid-template-columns: 4.2rem minmax(0, 1fr); column-gap: 1rem; margin: 0; padding: .55rem 0; border-bottom: 1px solid var(--rule); }
+.talks > li.talk::marker { content: none; }
+.talk .date { color: var(--warm); font-size: .92rem; font-variant-numeric: lining-nums; padding-top: .12rem; white-space: nowrap; }
+.talk .kind { display: inline-block; font-size: .74rem; line-height: 1.45; padding: 0 .45rem; border-radius: 4px; border: 1px solid; margin-right: .35rem; vertical-align: .12em; white-space: nowrap; }
+.talk .kind.invited { background: var(--band); border-color: var(--band); color: #2a1c02; font-weight: 600; }
+.talk .kind.talk { color: var(--heading); border-color: color-mix(in srgb, var(--heading) 45%, transparent); }
+.talk .kind.lecture { color: var(--warm); border-color: var(--band); }
+.talk .kind.poster { color: var(--muted); border-color: var(--rule); }
+.talk .ttitle { font-size: 1.02rem; color: var(--ink); }
+.talk .ttitle a { color: inherit; text-decoration-color: var(--rule); }
+.talk .ttitle a:hover { color: var(--accent); }
+.talk .where { display: block; font-size: .9rem; color: var(--muted); margin-top: .1rem; }
+#talks h3 { margin-top: 1.8rem; }
 
 /* CV: dates in the gutter, a thin timeline with a dot per entry */
 .cv-entry { display: grid; grid-template-columns: 7rem minmax(0, var(--measure)); column-gap: 1.25rem; }
