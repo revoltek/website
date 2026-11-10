@@ -374,7 +374,12 @@ def section_page(s):
     if s["id"] == "about":
         headline = meta.get("headline") or SITE["title"]
         return f'<section id="about" class="section hero"><h1>{esc(headline)}</h1>\n{ruler()}\n{content}</section>'
-    return f'<section id="{s["id"]}" class="section"><h1>{esc(s["title"])}</h1>\n{content}</section>'
+    # "<!-- card: Title -->" in a page starts a new card with its own heading
+    parts = re.split(r"<!--\s*card:\s*(.+?)\s*-->", content)
+    html_ = f'<section id="{s["id"]}" class="section"><h1>{esc(s["title"])}</h1>\n{parts[0]}</section>'
+    for title, body in zip(parts[1::2], parts[2::2]):
+        html_ += f'\n<section class="section"><h2>{esc(title)}</h2>\n{body}</section>'
+    return html_
 
 
 def build():

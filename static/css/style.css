@@ -206,6 +206,7 @@ pre { background: var(--code-bg); padding: .9rem 1rem; overflow-x: auto; line-he
 /* Research: recent papers with figures */
 .section > .paper { max-width: var(--wide); }
 .paper { margin: 1.4rem 0 0; padding: 1.6rem 0 0; border-top: 1px solid var(--rule); }
+.section > h2 + .paper { margin-top: 0; padding-top: 0; border-top: 0; }
 .paper h4 { margin: 0 0 .25rem; font-size: 1.2rem; line-height: 1.35; }
 .paper h4 a { color: var(--heading); text-decoration-color: var(--band); }
 .paper .paper-ref { margin: 0 0 .8rem; color: var(--muted); font-size: .92rem; }

@@ -19,7 +19,7 @@ My group works within [ULU – Ultra Low Frequency Universe](https://www.ulu.rad
 - **A radio spectral index map and catalogue at 147–1400 MHz covering 80 per cent of the sky** (de Gasperin+ MNRAS 474, 5008)  
   <http://tgssadr.strw.leidenuniv.nl/spidx>
 
-### Recent first-author papers
+<!-- card: Recent first-author papers -->
 
 <article class="paper" markdown="1">
 #### [Single- and double-headed odd radio circles in the LOFAR surveys](https://doi.org/10.1051/0004-6361/202658988)
