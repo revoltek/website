@@ -12,7 +12,7 @@ permalink: /research/
 - **Data science:** machine learning, big data, supercomputers
 - **Radio astronomy:** low frequency, surveys, calibration and imaging techniques
 
-## [My research group](https://www.ulu.radio)
+## My research group
 
 My group works within [ULU – Ultra Low Frequency Universe](https://www.ulu.radio), my ERC Consolidator Grant project.
 

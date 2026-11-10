@@ -241,7 +241,6 @@ def blog_index(posts):
 def render(page_title, content, active, permalink, description=None):
     head, body = gtm()
     css = hashlib.sha1((ROOT / "static" / "css" / "style.css").read_bytes()).hexdigest()[:8]
-    pubs_updated = long_date(datetime.date.fromisoformat(json.loads((ROOT / "data" / "publications.json").read_text())["updated"]))
     values = {
         "lang": SITE.get("lang", "en"),
         "head_title": esc(SITE["title"] if permalink == "/" else f"{page_title} | {SITE['title']}"),
@@ -256,7 +255,6 @@ def render(page_title, content, active, permalink, description=None):
         "nav": nav(active),
         "content": content,
         "year": datetime.date.today().year,
-        "pubs_updated": pubs_updated,
     }
     out = re.sub(r"\{\{ (\w+) \}\}", lambda m: str(values[m.group(1)]), TEMPLATE)
     if BASE:  # prefix root-relative links when served from a sub-path
