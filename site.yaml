@@ -15,7 +15,6 @@ nav:
   - {key: research,     title: Research,      url: /research/}
   - {key: publications, title: Publications,  url: /research/publications/}
   - {key: talks,        title: Talks,         url: /research/talks/}
-  - {key: data,         title: Data,          url: /data/}
   - {key: cv,           title: CV,            url: /cv/}
   - {key: contacts,     title: Contacts,      url: /contacts/}
   - {key: blog,         title: Blog,          url: /blog/}
