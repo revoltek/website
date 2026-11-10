@@ -151,16 +151,18 @@ a:hover { text-decoration-thickness: 2px; }
 .theme-toggle[data-next="dark"] .moon { display: inline; }
 
 /* Content panel ---------------------------------------------------------- */
-main {
-  margin: 1.5rem 1.5rem 1.5rem 0; padding: 3.2rem clamp(1.25rem, 4.5vw, 4rem) 1.5rem;
+main { padding: 1.5rem 1.5rem 1.5rem 0; min-width: 0; }
+/* Each section is its own card; the sky shows in the gaps between them */
+.section {
+  scroll-margin-top: 1.5rem; padding: 3rem clamp(1.25rem, 4.5vw, 4rem) 2.6rem;
   background: var(--panel); border-radius: 10px; box-shadow: var(--shadow);
-  -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); min-height: calc(100vh - 3rem);
+  -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
 }
-.section { scroll-margin-top: 1.5rem; }
+.section > :last-child { margin-bottom: 0; }
 .section > * { max-width: var(--measure); }
 .section > .metrics, .section > .pubhead, .section > .publist, .section > .cv,
 .section > .gallery, .section > pre, .section > .postlist, .section > .affiliations { max-width: var(--wide); }
-.section + .section { margin-top: 4.5rem; padding-top: 3rem; border-top: 1px solid var(--rule); }
+.section + .section { margin-top: 2.5rem; }
 
 .hero h1 { margin: 0 0 .6rem; max-width: 34rem; font-weight: 300; font-size: clamp(2.05rem, 4vw, 3.15rem); line-height: 1.12; letter-spacing: -.012em; color: var(--heading); }
 h2 { color: var(--heading); font-weight: 300; font-size: 2.15rem; line-height: 1.2; margin: 0 0 1.4rem; letter-spacing: -.008em; }
@@ -270,7 +272,7 @@ pre { background: var(--code-bg); padding: .9rem 1rem; overflow-x: auto; line-he
 .postnav { display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule); font-size: .98rem; max-width: var(--wide); }
 .postnav .next { text-align: right; margin-left: auto; }
 
-footer { margin-top: 4rem; padding-top: 1rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: .9rem; }
+footer { margin-top: 1.5rem; padding: .4rem .2rem; color: var(--rail-muted); font-size: .9rem; }
 footer p { margin: 0; }
 
 /* Narrow screens: the left column becomes a header -------------------- */
@@ -288,8 +290,9 @@ footer p { margin: 0; }
   .menu a[aria-current] { border-bottom-color: var(--band); }
   .rail-links { grid-column: 1 / -1; display: flex; gap: 1.3rem; margin: .7rem 0 0; }
   .theme-toggle { position: absolute; top: 1.2rem; right: 1rem; margin: 0; }
-  main { margin: 0 .5rem .5rem; padding: 2rem 1.1rem 1.2rem; min-height: 0; }
-  .section + .section { margin-top: 3rem; padding-top: 2.2rem; }
+  main { padding: 0 .5rem .5rem; }
+  .section { padding: 2rem 1.1rem 1.6rem; }
+  .section + .section { margin-top: 1.5rem; }
   h2 { font-size: 1.85rem; }
   .aside { float: none; width: 100%; max-width: 18rem; margin: 0 0 1rem; }
 }
@@ -306,5 +309,6 @@ footer p { margin: 0; }
 @media print {
   body::before, .rail, .skip { display: none; }
   .layout { display: block; }
-  main { margin: 0; box-shadow: none; background: #fff; color: #000; }
+  main { padding: 0; }
+  .section { box-shadow: none; background: #fff; color: #000; }
 }
