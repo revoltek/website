@@ -20,7 +20,7 @@ profile:
   name_lines: [Dr. Francesco, De Gasperin]   # how the name breaks in the left column
   photo: /media/portrait-square.jpg
   role:
-    - Staff Scientist, Istituto di Radioastronomia, INAF
+    - Staff Scientist, INAF
     - PI of the ERC CoG project ULU
   logo: /media/inaf-logo-white.png
   logo_url: https://www.inaf.it

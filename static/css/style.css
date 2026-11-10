@@ -43,7 +43,7 @@
   --band: #e3a72f;
   --heading: #8f1d1d;
   --on-heading: #ffffff;
-  --warm: #9a6508;
+  --warm: #0078b0;   /* INAF blue, darkened for text on light backgrounds */
   --code-bg: #eceee9;
   --shadow: 0 30px 80px rgba(3, 8, 20, .45);
   /* the left column always sits on the dark sky image */
@@ -66,7 +66,7 @@
     --band: #e9b44c;
     --heading: #f2a093;
     --on-heading: #1a0b0b;
-    --warm: #e9b44c;
+    --warm: #00afec;   /* INAF blue */
     --code-bg: #19212c;
     color-scheme: dark;
   }
@@ -81,7 +81,7 @@
   --band: #e9b44c;
   --heading: #f2a093;
   --on-heading: #1a0b0b;
-  --warm: #e9b44c;
+  --warm: #00afec;   /* INAF blue */
   --code-bg: #19212c;
   color-scheme: dark;
 }
@@ -252,7 +252,7 @@ pre { background: var(--code-bg); padding: .9rem 1rem; overflow-x: auto; line-he
 .pub .extra { margin-top: .3rem; }
 .pub.note { color: var(--muted); }
 .chip { font-size: .8rem; line-height: 1.5; padding: 0 .5rem; border-radius: 4px; border: 1px solid; }
-.chip.first { color: var(--warm); border-color: var(--band); }
+.chip.first { color: var(--warm); border-color: var(--warm); }
 .chip.co { color: var(--heading); border-color: color-mix(in srgb, var(--heading) 45%, transparent); }
 
 /* Talks: date, kind, title, venue */
@@ -264,7 +264,7 @@ pre { background: var(--code-bg); padding: .9rem 1rem; overflow-x: auto; line-he
 .talk .kind { display: inline-block; font-size: .74rem; line-height: 1.45; padding: 0 .45rem; border-radius: 4px; border: 1px solid; margin-right: .35rem; vertical-align: .12em; white-space: nowrap; }
 .talk .kind.invited { background: var(--band); border-color: var(--band); color: #2a1c02; font-weight: 600; }
 .talk .kind.talk { color: var(--heading); border-color: color-mix(in srgb, var(--heading) 45%, transparent); }
-.talk .kind.lecture { color: var(--warm); border-color: var(--band); }
+.talk .kind.lecture { color: var(--warm); border-color: var(--warm); }
 .talk .kind.poster { color: var(--muted); border-color: var(--rule); }
 .talk .ttitle { font-size: 1.02rem; color: var(--ink); }
 .talk .ttitle a { color: inherit; text-decoration-color: var(--rule); }
