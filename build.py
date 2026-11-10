@@ -373,12 +373,12 @@ def section_page(s):
         content = md(includes(body)).replace("<!-- publications -->", publications_html())
     if s["id"] == "about":
         headline = meta.get("headline") or SITE["title"]
-        return f'<section id="about" class="section hero"><h1>{esc(headline)}</h1>\n{ruler()}\n{content}</section>'
+        return f'<h1 class="page-title hero-title">{esc(headline)}</h1>\n<section id="about" class="section hero">{ruler()}\n{content}</section>'
     # "<!-- card: Title -->" in a page starts a new card with its own heading
     parts = re.split(r"<!--\s*card:\s*(.+?)\s*-->", content)
-    html_ = f'<section id="{s["id"]}" class="section"><h1>{esc(s["title"])}</h1>\n{parts[0]}</section>'
+    html_ = f'<h1 class="page-title">{esc(s["title"])}</h1>\n<section id="{s["id"]}" class="section">{parts[0]}</section>'
     for title, body in zip(parts[1::2], parts[2::2]):
-        html_ += f'\n<section class="section"><h2>{esc(title)}</h2>\n{body}</section>'
+        html_ += f'\n<h2 class="page-title">{esc(title)}</h2>\n<section class="section">{body}</section>'
     return html_
 
 
@@ -402,7 +402,7 @@ def build():
         meta, body = read_page(path)
         permalink = meta["permalink"]
         content = md(includes(body)).replace("<!-- blog-index -->", blog_index(posts))
-        content = f'<section class="section"><h1>{esc(meta["title"])}</h1>\n{content}</section>'
+        content = f'<h1 class="page-title">{esc(meta["title"])}</h1>\n<section class="section">{content}</section>'
         write(permalink, render(meta["title"], content, meta.get("nav"), permalink, meta.get("description")))
         urls.append(permalink)
 
@@ -416,8 +416,8 @@ def build():
         if newer:
             nav.append(f'<a class="next" href="{newer["url"]}">Newer: {esc(newer["meta"]["title"])}</a>')
         nav.append("</nav>")
-        content = (f'<article class="section"><p class="crumb"><a href="/blog/">Blog</a></p>'
-                   f"<h1>{esc(p['meta']['title'])}</h1>\n"
+        content = (f'<p class="crumb"><a href="/blog/">Blog</a></p><h1 class="page-title">{esc(p["meta"]["title"])}</h1>'
+                   f'<article class="section">'
                    f'<p class="postmeta">{long_date(p["date"])}{" in " + esc(cats) if cats else ""}</p>\n'
                    f"{md(includes(p['body']))}\n" + "\n".join(nav) + "</article>")
         write(p["url"], render(p["meta"]["title"], content, "blog", p["url"]))
@@ -430,7 +430,7 @@ def build():
                    f'<p>This page moved to <a href="{target}">{target}</a>.</p>\n')
 
     write("/404.html", render("Page not found",
-                              '<section class="section"><h1>Page not found</h1><p>This address does not exist. '
+                              '<h1 class="page-title">Page not found</h1><section class="section"><p>This address does not exist. '
                               'Try the <a href="/">home page</a> or the <a href="/blog/">blog</a>.</p></section>',
                               None, "/404.html"))
 
