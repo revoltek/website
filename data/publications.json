@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "metrics": {
   "refereed_papers": 223,
   "first_author_papers": 23,
@@ -749,7 +749,7 @@
    "volume": "715",
    "page": "A127",
    "doi": "10.1051/0004-6361/202661864",
-   "arxiv": null,
+   "arxiv": "2607.06659",
    "citations": 0,
    "doctype": "article"
   },
