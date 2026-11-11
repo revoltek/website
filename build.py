@@ -331,7 +331,7 @@ def write(permalink, html_):
     dest.write_text(html_)
 
 
-KIND_CLASS = {"invited talk": "invited", "talk": "talk", "lecture": "lecture", "poster": "poster"}
+KIND_CLASS = {"invited talk": "invited", "review talk": "invited", "talk": "talk", "lecture": "lecture", "poster": "poster"}
 
 
 def talks_html(body):
