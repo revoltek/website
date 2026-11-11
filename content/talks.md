@@ -3,6 +3,7 @@
 - 09/06/2026 **Review Talk:** “Non-thermal emission and magnetic fields in the Intra Cluster Medium”, Cluster V, Milan, IT
 - 26/06/2026 **Talk:** “Exploring the largest structures of the universe at the lowest frequencies”, IFPU colloquium, Trieste, IT
 - 25/06/2026 **Invited talk:** “Magnetic fields with state of the art radio interferometers”, IFPU focus week, Trieste, IT
+- 08/06/2026 **Talk:** “The LOFAR LBA Sky Survey: second data release”, LOFAR annual meeting, Dublin, IE
 
 ### 2025
 
@@ -10,7 +11,6 @@
 - 25/09/2025 **Talk:** “The LOFAR LBA Sky Survey: second data release”, LOFAR annual meeting, Paris, FR
 - 08/09/2025 **Talk:** “Cluster shocks at high definition”, CfA conference, Boston, US
 - 17/06/2025 **Talk:** “The cosmic ray life cycle in galaxy clusters - a case for a SKA-low wide area survey”, SKAO General Science Meeting, Görlitz, DE
-- 08/06/2025 **Talk:** “The LOFAR LBA Sky Survey: second data release”, LOFAR annual meeting, Dublin, IE
 - 14/03/2025 **Talk:** “Radio Surveys - an overview”, MIAPbP, Munich, DE
 
 ### 2024
