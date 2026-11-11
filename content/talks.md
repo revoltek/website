@@ -1,5 +1,6 @@
 ### 2026
 
+- 09/06/2026 **Review Talk:** “Non-thermal emission and magnetic fields in the Intra Cluster Medium”, Cluster V, Milan, IT
 - 26/06/2026 **Talk:** “Exploring the largest structures of the universe at the lowest frequencies”, IFPU colloquium, Trieste, IT
 - 25/06/2026 **Invited talk:** “Magnetic fields with state of the art radio interferometers”, IFPU focus week, Trieste, IT
 
