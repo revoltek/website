@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-23",
  "metrics": {
   "refereed_papers": 224,
   "first_author_papers": 23,
   "coauthor_papers": 201,
-  "citations": 15668,
+  "citations": 15769,
   "h_index": 63
  },
  "first_author": [
@@ -29,7 +29,7 @@
    "page": "A154",
    "doi": "10.1051/0004-6361/202658988",
    "arxiv": "2602.18294",
-   "citations": 3,
+   "citations": 5,
    "doctype": "article"
   },
   {
@@ -118,7 +118,7 @@
    "page": "A165",
    "doi": "10.1051/0004-6361/202245389",
    "arxiv": "2301.12724",
-   "citations": 54,
+   "citations": 58,
    "doctype": "article"
   },
   {
@@ -146,7 +146,7 @@
    "page": "A146",
    "doi": "10.1051/0004-6361/202142658",
    "arxiv": "2111.06940",
-   "citations": 75,
+   "citations": 76,
    "doctype": "article"
   },
   {
@@ -201,7 +201,7 @@
    "page": "A104",
    "doi": "10.1051/0004-6361/202140316",
    "arxiv": "2102.09238",
-   "citations": 106,
+   "citations": 107,
    "doctype": "article"
   },
   {
@@ -218,7 +218,7 @@
    "page": "A157",
    "doi": "10.1051/0004-6361/202038746",
    "arxiv": "2011.05696",
-   "citations": 21,
+   "citations": 23,
    "doctype": "article"
   },
   {
@@ -249,7 +249,7 @@
    "page": "A85",
    "doi": "10.1051/0004-6361/202038663",
    "arxiv": "2007.16043",
-   "citations": 39,
+   "citations": 40,
    "doctype": "article"
   },
   {
@@ -325,7 +325,7 @@
    "page": "A150",
    "doi": "10.1051/0004-6361/201936844",
    "arxiv": "2002.10431",
-   "citations": 48,
+   "citations": 47,
    "doctype": "article"
   },
   {
@@ -359,7 +359,7 @@
    "page": "A5",
    "doi": "10.1051/0004-6361/201833867",
    "arxiv": "1811.07954",
-   "citations": 199,
+   "citations": 201,
    "doctype": "article"
   },
   {
@@ -378,7 +378,7 @@
    "page": "A179",
    "doi": "10.1051/0004-6361/201833012",
    "arxiv": "1804.07947",
-   "citations": 70,
+   "citations": 71,
    "doctype": "article"
   },
   {
@@ -395,7 +395,7 @@
    "page": "5008",
    "doi": "10.1093/mnras/stx3125",
    "arxiv": "1711.11367",
-   "citations": 124,
+   "citations": 125,
    "doctype": "article"
   },
   {
@@ -418,7 +418,7 @@
    "page": "e1701634",
    "doi": "10.1126/sciadv.1701634",
    "arxiv": "1710.06796",
-   "citations": 107,
+   "citations": 108,
    "doctype": "article"
   },
   {
@@ -499,7 +499,7 @@
    "page": "2197",
    "doi": "10.1093/mnras/stv129",
    "arxiv": "1501.00043",
-   "citations": 42,
+   "citations": 43,
    "doctype": "article"
   },
   {
@@ -519,7 +519,7 @@
    "page": "3130",
    "doi": "10.1093/mnras/stu1658",
    "arxiv": "1408.2677",
-   "citations": 112,
+   "citations": 113,
    "doctype": "article"
   },
   {
@@ -671,7 +671,7 @@
    "page": "A56",
    "doi": "10.1051/0004-6361/201220209",
    "arxiv": "1210.1346",
-   "citations": 120,
+   "citations": 121,
    "doctype": "article"
   },
   {
@@ -778,8 +778,8 @@
    "volume": "715",
    "page": "A95",
    "doi": "10.1051/0004-6361/202661381",
-   "arxiv": null,
-   "citations": 0,
+   "arxiv": "2610.04698",
+   "citations": 1,
    "doctype": "article"
   },
   {
@@ -1190,7 +1190,7 @@
    "page": "A198",
    "doi": "10.1051/0004-6361/202557749",
    "arxiv": "2602.15949",
-   "citations": 73,
+   "citations": 79,
    "doctype": "article"
   },
   {
@@ -1220,7 +1220,7 @@
    "page": "stag054",
    "doi": "10.1093/mnras/stag054",
    "arxiv": "2601.16288",
-   "citations": 9,
+   "citations": 10,
    "doctype": "article"
   },
   {
@@ -1401,7 +1401,7 @@
    "page": "1638",
    "doi": "10.1093/mnras/staf1499",
    "arxiv": "2509.05442",
-   "citations": 12,
+   "citations": 13,
    "doctype": "article"
   },
   {
@@ -1524,7 +1524,7 @@
    "page": "A80",
    "doi": "10.1051/0004-6361/202452930",
    "arxiv": "2501.04093",
-   "citations": 28,
+   "citations": 30,
    "doctype": "article"
   },
   {
@@ -1664,7 +1664,7 @@
    "page": "A347",
    "doi": "10.1051/0004-6361/202348103",
    "arxiv": "2309.16560",
-   "citations": 13,
+   "citations": 14,
    "doctype": "article"
   },
   {
@@ -1737,7 +1737,7 @@
    "page": "537",
    "doi": "10.1038/s41586-024-07879-y",
    "arxiv": "2411.08630",
-   "citations": 68,
+   "citations": 71,
    "doctype": "article"
   },
   {
@@ -1902,7 +1902,7 @@
    "page": "786",
    "doi": "10.1038/s41550-024-02266-z",
    "arxiv": "2405.05311",
-   "citations": 17,
+   "citations": 18,
    "doctype": "article"
   },
   {
@@ -1966,7 +1966,7 @@
    "page": "A43",
    "doi": "10.1051/0004-6361/202349069",
    "arxiv": "2402.16943",
-   "citations": 23,
+   "citations": 24,
    "doctype": "article"
   },
   {
@@ -2437,7 +2437,7 @@
    "page": "A189",
    "doi": "10.1051/0004-6361/202245669",
    "arxiv": "2304.14829",
-   "citations": 7,
+   "citations": 8,
    "doctype": "article"
   },
   {
@@ -2462,7 +2462,7 @@
    "page": "A108",
    "doi": "10.1051/0004-6361/202245508",
    "arxiv": "2303.12155",
-   "citations": 8,
+   "citations": 9,
    "doctype": "article"
   },
   {
@@ -2578,7 +2578,7 @@
    "page": "A186",
    "doi": "10.1051/0004-6361/202244651",
    "arxiv": "2210.16570",
-   "citations": 21,
+   "citations": 22,
    "doctype": "article"
   },
   {
@@ -2653,7 +2653,7 @@
    "page": "A3",
    "doi": "10.1051/0004-6361/202243737",
    "arxiv": "2207.11040",
-   "citations": 33,
+   "citations": 34,
    "doctype": "article"
   },
   {
@@ -2889,7 +2889,7 @@
    "page": "A105",
    "doi": "10.1051/0004-6361/202243833",
    "arxiv": "2205.12281",
-   "citations": 21,
+   "citations": 22,
    "doctype": "article"
   },
   {
@@ -2961,7 +2961,7 @@
    "page": "A78",
    "doi": "10.1051/0004-6361/202143020",
    "arxiv": "2202.11720",
-   "citations": 113,
+   "citations": 114,
    "doctype": "article"
   },
   {
@@ -3000,7 +3000,7 @@
    "page": "80",
    "doi": "10.3847/1538-4357/ac4708",
    "arxiv": "2111.04449",
-   "citations": 48,
+   "citations": 49,
    "doctype": "article"
   },
   {
@@ -3147,7 +3147,7 @@
    "page": "A1",
    "doi": "10.1051/0004-6361/202142484",
    "arxiv": "2202.11733",
-   "citations": 581,
+   "citations": 583,
    "doctype": "article"
   },
   {
@@ -3289,7 +3289,7 @@
    "page": "A2",
    "doi": "10.1051/0004-6361/202140756",
    "arxiv": "2108.07284",
-   "citations": 39,
+   "citations": 40,
    "doctype": "article"
   },
   {
@@ -3377,7 +3377,7 @@
    "page": "A1",
    "doi": "10.1051/0004-6361/202140649",
    "arxiv": "2108.07283",
-   "citations": 99,
+   "citations": 100,
    "doctype": "article"
   },
   {
@@ -3542,7 +3542,7 @@
    "page": "A56",
    "doi": "10.1051/0004-6361/202141488",
    "arxiv": "2111.05673",
-   "citations": 164,
+   "citations": 167,
    "doctype": "article"
   },
   {
@@ -3658,7 +3658,7 @@
    "page": "1233",
    "doi": "10.1038/s41550-021-01483-0",
    "arxiv": "2110.03713",
-   "citations": 120,
+   "citations": 121,
    "doctype": "article"
   },
   {
@@ -3864,7 +3864,7 @@
    "page": "A37",
    "doi": "10.1051/0004-6361/202140465",
    "arxiv": "2105.04636",
-   "citations": 24,
+   "citations": 26,
    "doctype": "article"
   },
   {
@@ -3901,7 +3901,7 @@
    "page": "A115",
    "doi": "10.1051/0004-6361/202039826",
    "arxiv": "2011.02387",
-   "citations": 176,
+   "citations": 178,
    "doctype": "article"
   },
   {
@@ -4027,7 +4027,7 @@
    "page": "2518",
    "doi": "10.1093/mnras/stab218",
    "arxiv": "2101.09302",
-   "citations": 52,
+   "citations": 53,
    "doctype": "article"
   },
   {
@@ -4126,7 +4126,7 @@
    "page": "A1",
    "doi": "10.1051/0004-6361/202038804",
    "arxiv": "2011.08328",
-   "citations": 252,
+   "citations": 255,
    "doctype": "article"
   },
   {
@@ -4151,7 +4151,7 @@
    "page": "A51",
    "doi": "10.1051/0004-6361/202039208",
    "arxiv": "2101.01641",
-   "citations": 84,
+   "citations": 85,
    "doctype": "article"
   },
   {
@@ -4177,7 +4177,7 @@
    "page": "A50",
    "doi": "10.1051/0004-6361/202039206",
    "arxiv": "2101.01640",
-   "citations": 41,
+   "citations": 42,
    "doctype": "article"
   },
   {
@@ -4291,7 +4291,7 @@
    "page": "268",
    "doi": "10.1038/s41550-020-01244-5",
    "arxiv": "2011.01628",
-   "citations": 65,
+   "citations": 64,
    "doctype": "article"
   },
   {
@@ -4416,7 +4416,7 @@
    "page": "L11",
    "doi": "10.1093/mnrasl/slaa142",
    "arxiv": "2008.09613",
-   "citations": 95,
+   "citations": 96,
    "doctype": "article"
   },
   {
@@ -4540,7 +4540,7 @@
    "page": "93",
    "doi": "10.3847/1538-4357/ab9a2f",
    "arxiv": "2006.04808",
-   "citations": 97,
+   "citations": 96,
    "doctype": "article"
   },
   {
@@ -4919,7 +4919,7 @@
    "page": "981",
    "doi": "10.1126/science.aat7500",
    "arxiv": "1906.07584",
-   "citations": 169,
+   "citations": 170,
    "doctype": "article"
   },
   {
@@ -4972,7 +4972,7 @@
    "page": "126",
    "doi": "10.3847/1538-3881/aaff62",
    "arxiv": "1901.05480",
-   "citations": 54,
+   "citations": 55,
    "doctype": "article"
   },
   {
@@ -4994,7 +4994,7 @@
    "page": "16",
    "doi": "10.1007/s11214-019-0584-z",
    "arxiv": "1901.04496",
-   "citations": 589,
+   "citations": 592,
    "doctype": "article"
   },
   {
@@ -5217,7 +5217,7 @@
    "page": "A17",
    "doi": "10.1051/0004-6361/201833883",
    "arxiv": "1811.05528",
-   "citations": 231,
+   "citations": 232,
    "doctype": "article"
   },
   {
@@ -5330,7 +5330,7 @@
    "page": "A2",
    "doi": "10.1051/0004-6361/201833564",
    "arxiv": "1811.07927",
-   "citations": 174,
+   "citations": 175,
    "doctype": "article"
   },
   {
@@ -5451,7 +5451,7 @@
    "page": "A1",
    "doi": "10.1051/0004-6361/201833559",
    "arxiv": "1811.07926",
-   "citations": 604,
+   "citations": 606,
    "doctype": "article"
   },
   {
@@ -6107,7 +6107,7 @@
    "page": "636",
    "doi": "10.1093/mnras/stx1977",
    "arxiv": "1708.00301",
-   "citations": 30,
+   "citations": 31,
    "doctype": "article"
   },
   {
@@ -6173,7 +6173,7 @@
    "page": "136",
    "doi": "10.3847/1538-4357/aa8ad2",
    "arxiv": "1709.00183",
-   "citations": 68,
+   "citations": 69,
    "doctype": "article"
   },
   {
@@ -6237,7 +6237,7 @@
    "page": "3468",
    "doi": "10.1093/mnras/stx1040",
    "arxiv": "1704.06268",
-   "citations": 148,
+   "citations": 149,
    "doctype": "article"
   },
   {
@@ -6305,7 +6305,7 @@
    "page": "A122",
    "doi": "10.1051/0004-6361/201630349",
    "arxiv": "1703.08688",
-   "citations": 95,
+   "citations": 96,
    "doctype": "article"
   },
   {
@@ -6391,7 +6391,7 @@
    "page": "A104",
    "doi": "10.1051/0004-6361/201629313",
    "arxiv": "1611.02700",
-   "citations": 675,
+   "citations": 680,
    "doctype": "article"
   },
   {
@@ -6614,7 +6614,7 @@
    "page": "A86",
    "doi": "10.1051/0004-6361/201629016",
    "arxiv": "1608.02133",
-   "citations": 48,
+   "citations": 49,
    "doctype": "article"
   },
   {
@@ -7040,7 +7040,7 @@
    "page": "2",
    "doi": "10.3847/0067-0049/223/1/2",
    "arxiv": "1601.05422",
-   "citations": 256,
+   "citations": 258,
    "doctype": "article"
   },
   {
@@ -7300,7 +7300,7 @@
    "page": "P11005",
    "doi": "10.1088/1748-0221/10/11/P11005",
    "arxiv": "1507.08932",
-   "citations": 36,
+   "citations": 38,
    "doctype": "article"
   },
   {
@@ -7629,7 +7629,7 @@
    "page": "2291",
    "doi": "10.1093/mnras/stv746",
    "arxiv": "1407.4244",
-   "citations": 23,
+   "citations": 24,
    "doctype": "article"
   },
   {
@@ -7826,7 +7826,7 @@
    "page": "A90",
    "doi": "10.1051/0004-6361/201424504",
    "arxiv": "1406.7242",
-   "citations": 89,
+   "citations": 90,
    "doctype": "article"
   },
   {
@@ -8461,7 +8461,7 @@
    "page": "A67",
    "doi": "10.1051/0004-6361/201423936",
    "arxiv": "1407.4385",
-   "citations": 75,
+   "citations": 77,
    "doctype": "article"
   },
   {
@@ -9158,7 +9158,7 @@
    "page": "A2",
    "doi": "10.1051/0004-6361/201220873",
    "arxiv": "1305.3550",
-   "citations": 2591,
+   "citations": 2606,
    "doctype": "article"
   },
   {
@@ -9685,7 +9685,7 @@
    "page": "436",
    "doi": "10.1126/science.1230960",
    "arxiv": "1302.0203",
-   "citations": 136,
+   "citations": 135,
    "doctype": "article"
   },
   {
@@ -9784,7 +9784,7 @@
    "page": "A43",
    "doi": "10.1051/0004-6361/201219154",
    "arxiv": "1205.4730",
-   "citations": 65,
+   "citations": 66,
    "doctype": "article"
   },
   {
